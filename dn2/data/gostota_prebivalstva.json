@@ -1,0 +1,850 @@
+[
+  {
+    "obcina": "Ajdov\u0161\u010dina",
+    "populacija": 19923.0
+  },
+  {
+    "obcina": "Ankaran/Ancarano",
+    "populacija": 3417.0
+  },
+  {
+    "obcina": "Apa\u010de",
+    "populacija": 3580.0
+  },
+  {
+    "obcina": "Beltinci",
+    "populacija": 8109.0
+  },
+  {
+    "obcina": "Benedikt",
+    "populacija": 2755.0
+  },
+  {
+    "obcina": "Bistrica ob Sotli",
+    "populacija": 1337.0
+  },
+  {
+    "obcina": "Bled",
+    "populacija": 8121.0
+  },
+  {
+    "obcina": "Bloke",
+    "populacija": 1570.0
+  },
+  {
+    "obcina": "Bohinj",
+    "populacija": 5241.0
+  },
+  {
+    "obcina": "Borovnica",
+    "populacija": 4739.0
+  },
+  {
+    "obcina": "Bovec",
+    "populacija": 3021.0
+  },
+  {
+    "obcina": "Braslov\u010de",
+    "populacija": 5905.0
+  },
+  {
+    "obcina": "Brda",
+    "populacija": 5559.0
+  },
+  {
+    "obcina": "Brezovica",
+    "populacija": 13016.0
+  },
+  {
+    "obcina": "Bre\u017eice",
+    "populacija": 24452.0
+  },
+  {
+    "obcina": "Cankova",
+    "populacija": 1773.0
+  },
+  {
+    "obcina": "Celje",
+    "populacija": 49536.0
+  },
+  {
+    "obcina": "Cerklje na Gorenjskem",
+    "populacija": 7873.0
+  },
+  {
+    "obcina": "Cerknica",
+    "populacija": 11879.0
+  },
+  {
+    "obcina": "Cerkno",
+    "populacija": 4433.0
+  },
+  {
+    "obcina": "Cerkvenjak",
+    "populacija": 2240.0
+  },
+  {
+    "obcina": "Cirkulane",
+    "populacija": 2379.0
+  },
+  {
+    "obcina": "\u010cren\u0161ovci",
+    "populacija": 3916.0
+  },
+  {
+    "obcina": "\u010crna na Koro\u0161kem",
+    "populacija": 3018.0
+  },
+  {
+    "obcina": "\u010crnomelj",
+    "populacija": 14262.0
+  },
+  {
+    "obcina": "Destrnik",
+    "populacija": 2714.0
+  },
+  {
+    "obcina": "Diva\u010da",
+    "populacija": 4529.0
+  },
+  {
+    "obcina": "Dobje",
+    "populacija": 968.0
+  },
+  {
+    "obcina": "Dobrepolje",
+    "populacija": 3953.0
+  },
+  {
+    "obcina": "Dobrna",
+    "populacija": 2322.0
+  },
+  {
+    "obcina": "Dobrova - Polhov Gradec",
+    "populacija": 8048.0
+  },
+  {
+    "obcina": "Dobrovnik/Dobronak",
+    "populacija": 1251.0
+  },
+  {
+    "obcina": "Dol pri Ljubljani",
+    "populacija": 6452.0
+  },
+  {
+    "obcina": "Dolenjske Toplice",
+    "populacija": 3649.0
+  },
+  {
+    "obcina": "Dom\u017eale",
+    "populacija": 37995.0
+  },
+  {
+    "obcina": "Dornava",
+    "populacija": 2909.0
+  },
+  {
+    "obcina": "Dravograd",
+    "populacija": 8788.0
+  },
+  {
+    "obcina": "Duplek",
+    "populacija": 7038.0
+  },
+  {
+    "obcina": "Gorenja vas - Poljane",
+    "populacija": 7707.0
+  },
+  {
+    "obcina": "Gori\u0161nica",
+    "populacija": 4183.0
+  },
+  {
+    "obcina": "Gorje",
+    "populacija": 2741.0
+  },
+  {
+    "obcina": "Gornja Radgona",
+    "populacija": 8534.0
+  },
+  {
+    "obcina": "Gornji Grad",
+    "populacija": 2578.0
+  },
+  {
+    "obcina": "Gornji Petrovci",
+    "populacija": 1988.0
+  },
+  {
+    "obcina": "Grad",
+    "populacija": 1990.0
+  },
+  {
+    "obcina": "Grosuplje",
+    "populacija": 21948.0
+  },
+  {
+    "obcina": "Hajdina",
+    "populacija": 4006.0
+  },
+  {
+    "obcina": "Ho\u010de - Slivnica",
+    "populacija": 11932.0
+  },
+  {
+    "obcina": "Hodo\u0161/Hodos",
+    "populacija": 346.0
+  },
+  {
+    "obcina": "Horjul",
+    "populacija": 3065.0
+  },
+  {
+    "obcina": "Hrastnik",
+    "populacija": 8871.0
+  },
+  {
+    "obcina": "Hrpelje - Kozina",
+    "populacija": 5277.0
+  },
+  {
+    "obcina": "Idrija",
+    "populacija": 11727.0
+  },
+  {
+    "obcina": "Ig",
+    "populacija": 7840.0
+  },
+  {
+    "obcina": "Ilirska Bistrica",
+    "populacija": 13292.0
+  },
+  {
+    "obcina": "Ivan\u010dna Gorica",
+    "populacija": 18207.0
+  },
+  {
+    "obcina": "Izola/Isola",
+    "populacija": 16478.0
+  },
+  {
+    "obcina": "Jesenice",
+    "populacija": 21896.0
+  },
+  {
+    "obcina": "Jezersko",
+    "populacija": 668.0
+  },
+  {
+    "obcina": "Jur\u0161inci",
+    "populacija": 2435.0
+  },
+  {
+    "obcina": "Kamnik",
+    "populacija": 30059.0
+  },
+  {
+    "obcina": "Kanal",
+    "populacija": 5084.0
+  },
+  {
+    "obcina": "Kidri\u010devo",
+    "populacija": 6655.0
+  },
+  {
+    "obcina": "Kobarid",
+    "populacija": 4041.0
+  },
+  {
+    "obcina": "Kobilje",
+    "populacija": 512.0
+  },
+  {
+    "obcina": "Ko\u010devje",
+    "populacija": 15630.0
+  },
+  {
+    "obcina": "Komen",
+    "populacija": 3500.0
+  },
+  {
+    "obcina": "Komenda",
+    "populacija": 6742.0
+  },
+  {
+    "obcina": "Koper/Capodistria",
+    "populacija": 54220.0
+  },
+  {
+    "obcina": "Kostanjevica na Krki",
+    "populacija": 2448.0
+  },
+  {
+    "obcina": "Kostel",
+    "populacija": 618.0
+  },
+  {
+    "obcina": "Kozje",
+    "populacija": 2992.0
+  },
+  {
+    "obcina": "Kranj",
+    "populacija": 57218.0
+  },
+  {
+    "obcina": "Kranjska Gora",
+    "populacija": 5189.0
+  },
+  {
+    "obcina": "Kri\u017eevci",
+    "populacija": 3537.0
+  },
+  {
+    "obcina": "Kr\u0161ko",
+    "populacija": 26067.0
+  },
+  {
+    "obcina": "Kungota",
+    "populacija": 5043.0
+  },
+  {
+    "obcina": "Kuzma",
+    "populacija": 1636.0
+  },
+  {
+    "obcina": "La\u0161ko",
+    "populacija": 13044.0
+  },
+  {
+    "obcina": "Lenart",
+    "populacija": 8593.0
+  },
+  {
+    "obcina": "Lendava/Lendva",
+    "populacija": 10170.0
+  },
+  {
+    "obcina": "Litija",
+    "populacija": 15846.0
+  },
+  {
+    "obcina": "Ljubljana",
+    "populacija": 298227.0
+  },
+  {
+    "obcina": "Ljubno",
+    "populacija": 2512.0
+  },
+  {
+    "obcina": "Ljutomer",
+    "populacija": 10995.0
+  },
+  {
+    "obcina": "Log - Dragomer",
+    "populacija": 3844.0
+  },
+  {
+    "obcina": "Logatec",
+    "populacija": 15018.0
+  },
+  {
+    "obcina": "Lo\u0161ka dolina",
+    "populacija": 3493.0
+  },
+  {
+    "obcina": "Lo\u0161ki Potok",
+    "populacija": 1823.0
+  },
+  {
+    "obcina": "Lovrenc na Pohorju",
+    "populacija": 2946.0
+  },
+  {
+    "obcina": "Lu\u010de",
+    "populacija": 1424.0
+  },
+  {
+    "obcina": "Lukovica",
+    "populacija": 6178.0
+  },
+  {
+    "obcina": "Maj\u0161perk",
+    "populacija": 4014.0
+  },
+  {
+    "obcina": "Makole",
+    "populacija": 2045.0
+  },
+  {
+    "obcina": "Maribor",
+    "populacija": 113393.0
+  },
+  {
+    "obcina": "Markovci",
+    "populacija": 4070.0
+  },
+  {
+    "obcina": "Medvode",
+    "populacija": 17260.0
+  },
+  {
+    "obcina": "Menge\u0161",
+    "populacija": 8686.0
+  },
+  {
+    "obcina": "Metlika",
+    "populacija": 8506.0
+  },
+  {
+    "obcina": "Me\u017eica",
+    "populacija": 3541.0
+  },
+  {
+    "obcina": "Miklav\u017e na Dravskem polju",
+    "populacija": 7241.0
+  },
+  {
+    "obcina": "Miren - Kostanjevica",
+    "populacija": 5066.0
+  },
+  {
+    "obcina": "Mirna",
+    "populacija": 2791.0
+  },
+  {
+    "obcina": "Mirna Pe\u010d",
+    "populacija": 3203.0
+  },
+  {
+    "obcina": "Mislinja",
+    "populacija": 4558.0
+  },
+  {
+    "obcina": "Mokronog - Trebelno",
+    "populacija": 3257.0
+  },
+  {
+    "obcina": "Morav\u010de",
+    "populacija": 5661.0
+  },
+  {
+    "obcina": "Moravske Toplice",
+    "populacija": 5955.0
+  },
+  {
+    "obcina": "Mozirje",
+    "populacija": 4523.0
+  },
+  {
+    "obcina": "Murska Sobota",
+    "populacija": 18474.0
+  },
+  {
+    "obcina": "Muta",
+    "populacija": 3361.0
+  },
+  {
+    "obcina": "Naklo",
+    "populacija": 5463.0
+  },
+  {
+    "obcina": "Nazarje",
+    "populacija": 2718.0
+  },
+  {
+    "obcina": "Nova Gorica",
+    "populacija": 31895.0
+  },
+  {
+    "obcina": "Novo mesto",
+    "populacija": 38563.0
+  },
+  {
+    "obcina": "Odranci",
+    "populacija": 1590.0
+  },
+  {
+    "obcina": "Oplotnica",
+    "populacija": 4204.0
+  },
+  {
+    "obcina": "Ormo\u017e",
+    "populacija": 11839.0
+  },
+  {
+    "obcina": "Osilnica",
+    "populacija": 336.0
+  },
+  {
+    "obcina": "Pesnica",
+    "populacija": 7752.0
+  },
+  {
+    "obcina": "Piran/Pirano",
+    "populacija": 18091.0
+  },
+  {
+    "obcina": "Pivka",
+    "populacija": 6142.0
+  },
+  {
+    "obcina": "Pod\u010detrtek",
+    "populacija": 3619.0
+  },
+  {
+    "obcina": "Podlehnik",
+    "populacija": 1822.0
+  },
+  {
+    "obcina": "Podvelka",
+    "populacija": 2236.0
+  },
+  {
+    "obcina": "Polj\u010dane",
+    "populacija": 4405.0
+  },
+  {
+    "obcina": "Polzela",
+    "populacija": 6547.0
+  },
+  {
+    "obcina": "Postojna",
+    "populacija": 17691.0
+  },
+  {
+    "obcina": "Prebold",
+    "populacija": 5281.0
+  },
+  {
+    "obcina": "Preddvor",
+    "populacija": 3922.0
+  },
+  {
+    "obcina": "Prevalje",
+    "populacija": 6727.0
+  },
+  {
+    "obcina": "Ptuj",
+    "populacija": 24035.0
+  },
+  {
+    "obcina": "Puconci",
+    "populacija": 5871.0
+  },
+  {
+    "obcina": "Ra\u010de - Fram",
+    "populacija": 8081.0
+  },
+  {
+    "obcina": "Rade\u010de",
+    "populacija": 4074.0
+  },
+  {
+    "obcina": "Radenci",
+    "populacija": 5053.0
+  },
+  {
+    "obcina": "Radlje ob Dravi",
+    "populacija": 6275.0
+  },
+  {
+    "obcina": "Radovljica",
+    "populacija": 19378.0
+  },
+  {
+    "obcina": "Ravne na Koro\u0161kem",
+    "populacija": 11215.0
+  },
+  {
+    "obcina": "Razkri\u017eje",
+    "populacija": 1230.0
+  },
+  {
+    "obcina": "Re\u010dica ob Savinji",
+    "populacija": 2305.0
+  },
+  {
+    "obcina": "Ren\u010de - Vogrsko",
+    "populacija": 4399.0
+  },
+  {
+    "obcina": "Ribnica",
+    "populacija": 9878.0
+  },
+  {
+    "obcina": "Ribnica na Pohorju",
+    "populacija": 1092.0
+  },
+  {
+    "obcina": "Roga\u0161ka Slatina",
+    "populacija": 11644.0
+  },
+  {
+    "obcina": "Roga\u0161ovci",
+    "populacija": 3064.0
+  },
+  {
+    "obcina": "Rogatec",
+    "populacija": 3088.0
+  },
+  {
+    "obcina": "Ru\u0161e",
+    "populacija": 7196.0
+  },
+  {
+    "obcina": "Selnica ob Dravi",
+    "populacija": 4431.0
+  },
+  {
+    "obcina": "Semi\u010d",
+    "populacija": 3820.0
+  },
+  {
+    "obcina": "Sevnica",
+    "populacija": 17546.0
+  },
+  {
+    "obcina": "Se\u017eana",
+    "populacija": 13771.0
+  },
+  {
+    "obcina": "Slovenj Gradec",
+    "populacija": 17077.0
+  },
+  {
+    "obcina": "Slovenska Bistrica",
+    "populacija": 26138.0
+  },
+  {
+    "obcina": "Slovenske Konjice",
+    "populacija": 15519.0
+  },
+  {
+    "obcina": "Sodra\u017eica",
+    "populacija": 2308.0
+  },
+  {
+    "obcina": "Sol\u010dava",
+    "populacija": 503.0
+  },
+  {
+    "obcina": "Sredi\u0161\u010de ob Dravi",
+    "populacija": 1848.0
+  },
+  {
+    "obcina": "Star\u0161e",
+    "populacija": 4104.0
+  },
+  {
+    "obcina": "Stra\u017ea",
+    "populacija": 3934.0
+  },
+  {
+    "obcina": "Sveta Ana",
+    "populacija": 2372.0
+  },
+  {
+    "obcina": "Sveta Trojica v Slov. goricah",
+    "populacija": 2249.0
+  },
+  {
+    "obcina": "Sveti Andra\u017e v Slov. goricah",
+    "populacija": 1188.0
+  },
+  {
+    "obcina": "Sveti Jurij ob \u0160\u010davnici",
+    "populacija": 2803.0
+  },
+  {
+    "obcina": "Sveti Jurij v Slov. goricah",
+    "populacija": 2182.0
+  },
+  {
+    "obcina": "Sveti Toma\u017e",
+    "populacija": 1986.0
+  },
+  {
+    "obcina": "\u0160alovci",
+    "populacija": 1344.0
+  },
+  {
+    "obcina": "\u0160empeter - Vrtojba",
+    "populacija": 6349.0
+  },
+  {
+    "obcina": "\u0160en\u010dur",
+    "populacija": 8780.0
+  },
+  {
+    "obcina": "\u0160entilj",
+    "populacija": 8406.0
+  },
+  {
+    "obcina": "\u0160entjernej",
+    "populacija": 7435.0
+  },
+  {
+    "obcina": "\u0160entjur",
+    "populacija": 19579.0
+  },
+  {
+    "obcina": "\u0160entrupert",
+    "populacija": 2847.0
+  },
+  {
+    "obcina": "\u0160kocjan",
+    "populacija": 3545.0
+  },
+  {
+    "obcina": "\u0160kofja Loka",
+    "populacija": 23928.0
+  },
+  {
+    "obcina": "\u0160kofljica",
+    "populacija": 12044.0
+  },
+  {
+    "obcina": "\u0160marje pri Jel\u0161ah",
+    "populacija": 10562.0
+  },
+  {
+    "obcina": "\u0160marje\u0161ke Toplice",
+    "populacija": 3594.0
+  },
+  {
+    "obcina": "\u0160martno ob Paki",
+    "populacija": 3397.0
+  },
+  {
+    "obcina": "\u0160martno pri Litiji",
+    "populacija": 5792.0
+  },
+  {
+    "obcina": "\u0160o\u0161tanj",
+    "populacija": 8959.0
+  },
+  {
+    "obcina": "\u0160tore",
+    "populacija": 4436.0
+  },
+  {
+    "obcina": "Tabor",
+    "populacija": 1789.0
+  },
+  {
+    "obcina": "Ti\u0161ina",
+    "populacija": 3939.0
+  },
+  {
+    "obcina": "Tolmin",
+    "populacija": 10766.0
+  },
+  {
+    "obcina": "Trbovlje",
+    "populacija": 16036.0
+  },
+  {
+    "obcina": "Trebnje",
+    "populacija": 13603.0
+  },
+  {
+    "obcina": "Trnovska vas",
+    "populacija": 1392.0
+  },
+  {
+    "obcina": "Trzin",
+    "populacija": 4060.0
+  },
+  {
+    "obcina": "Tr\u017ei\u010d",
+    "populacija": 15140.0
+  },
+  {
+    "obcina": "Turni\u0161\u010de",
+    "populacija": 3120.0
+  },
+  {
+    "obcina": "Velenje",
+    "populacija": 34020.0
+  },
+  {
+    "obcina": "Velika Polana",
+    "populacija": 1389.0
+  },
+  {
+    "obcina": "Velike La\u0161\u010de",
+    "populacija": 4574.0
+  },
+  {
+    "obcina": "Ver\u017eej",
+    "populacija": 1382.0
+  },
+  {
+    "obcina": "Videm",
+    "populacija": 5638.0
+  },
+  {
+    "obcina": "Vipava",
+    "populacija": 5869.0
+  },
+  {
+    "obcina": "Vitanje",
+    "populacija": 2209.0
+  },
+  {
+    "obcina": "Vodice",
+    "populacija": 5193.0
+  },
+  {
+    "obcina": "Vojnik",
+    "populacija": 9264.0
+  },
+  {
+    "obcina": "Vransko",
+    "populacija": 2720.0
+  },
+  {
+    "obcina": "Vrhnika",
+    "populacija": 18210.0
+  },
+  {
+    "obcina": "Vuzenica",
+    "populacija": 2624.0
+  },
+  {
+    "obcina": "Zagorje ob Savi",
+    "populacija": 16442.0
+  },
+  {
+    "obcina": "Zavr\u010d",
+    "populacija": 1476.0
+  },
+  {
+    "obcina": "Zre\u010de",
+    "populacija": 6649.0
+  },
+  {
+    "obcina": "\u017dalec",
+    "populacija": 21838.0
+  },
+  {
+    "obcina": "\u017delezniki",
+    "populacija": 6649.0
+  },
+  {
+    "obcina": "\u017detale",
+    "populacija": 1300.0
+  },
+  {
+    "obcina": "\u017diri",
+    "populacija": 5070.0
+  },
+  {
+    "obcina": "\u017dirovnica",
+    "populacija": 4507.0
+  },
+  {
+    "obcina": "\u017du\u017eemberk",
+    "populacija": 4671.0
+  }
+]

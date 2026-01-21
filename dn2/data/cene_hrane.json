@@ -1,0 +1,2060 @@
+[
+  {
+    "leto":2018,
+    "izdelek":"Riž, beli (kg)",
+    "enota":null,
+    "cena_eur":2.07
+  },
+  {
+    "leto":2018,
+    "izdelek":"Moka, pšenična, razen polnozrnata (kg)",
+    "enota":null,
+    "cena_eur":0.66
+  },
+  {
+    "leto":2018,
+    "izdelek":"Kruh (bel, polbel, črn) (kg)",
+    "enota":null,
+    "cena_eur":2.13
+  },
+  {
+    "leto":2018,
+    "izdelek":"Testenine (kg)",
+    "enota":null,
+    "cena_eur":2.58
+  },
+  {
+    "leto":2018,
+    "izdelek":"Kosmiči za zajtrk (kg)",
+    "enota":null,
+    "cena_eur":5.0
+  },
+  {
+    "leto":2018,
+    "izdelek":"Meso, goveje brez kosti (kg)",
+    "enota":null,
+    "cena_eur":7.3
+  },
+  {
+    "leto":2018,
+    "izdelek":"Meso, goveje s kostjo (kg)",
+    "enota":null,
+    "cena_eur":5.25
+  },
+  {
+    "leto":2018,
+    "izdelek":"Meso, svinjsko s kostjo (kg)",
+    "enota":null,
+    "cena_eur":4.62
+  },
+  {
+    "leto":2018,
+    "izdelek":"Meso, piščančje brez kosti (kg)",
+    "enota":null,
+    "cena_eur":7.27
+  },
+  {
+    "leto":2018,
+    "izdelek":"Meso, mleto mešano (kg)",
+    "enota":null,
+    "cena_eur":5.05
+  },
+  {
+    "leto":2018,
+    "izdelek":"Mleko, trajno, polnomastno (l)",
+    "enota":null,
+    "cena_eur":0.74
+  },
+  {
+    "leto":2018,
+    "izdelek":"Jogurt (kg)",
+    "enota":null,
+    "cena_eur":2.12
+  },
+  {
+    "leto":2018,
+    "izdelek":"Sir (kg)",
+    "enota":null,
+    "cena_eur":7.57
+  },
+  {
+    "leto":2018,
+    "izdelek":"Skuta (kg)",
+    "enota":null,
+    "cena_eur":3.81
+  },
+  {
+    "leto":2018,
+    "izdelek":"Jajca (10 kosov)",
+    "enota":null,
+    "cena_eur":1.67
+  },
+  {
+    "leto":2018,
+    "izdelek":"Maslo (kg)",
+    "enota":null,
+    "cena_eur":8.11
+  },
+  {
+    "leto":2018,
+    "izdelek":"Olje, olivno (l)",
+    "enota":null,
+    "cena_eur":7.76
+  },
+  {
+    "leto":2018,
+    "izdelek":"Olje, jedilno (l)",
+    "enota":null,
+    "cena_eur":1.4
+  },
+  {
+    "leto":2018,
+    "izdelek":"Limone (kg)",
+    "enota":null,
+    "cena_eur":2.07
+  },
+  {
+    "leto":2018,
+    "izdelek":"Pomaranče (kg)",
+    "enota":null,
+    "cena_eur":1.24
+  },
+  {
+    "leto":2018,
+    "izdelek":"Jabolka (kg)",
+    "enota":null,
+    "cena_eur":1.35
+  },
+  {
+    "leto":2018,
+    "izdelek":"Banane (kg)",
+    "enota":null,
+    "cena_eur":1.2
+  },
+  {
+    "leto":2018,
+    "izdelek":"Breskve (kg)",
+    "enota":null,
+    "cena_eur":1.84
+  },
+  {
+    "leto":2018,
+    "izdelek":"Jagode (kg)",
+    "enota":null,
+    "cena_eur":4.63
+  },
+  {
+    "leto":2018,
+    "izdelek":"Cvetača (kg)",
+    "enota":null,
+    "cena_eur":1.15
+  },
+  {
+    "leto":2018,
+    "izdelek":"Paradižnik, sveži (kg)",
+    "enota":null,
+    "cena_eur":2.86
+  },
+  {
+    "leto":2018,
+    "izdelek":"Čebula (kg)",
+    "enota":null,
+    "cena_eur":1.35
+  },
+  {
+    "leto":2018,
+    "izdelek":"Korenje (kg)",
+    "enota":null,
+    "cena_eur":1.08
+  },
+  {
+    "leto":2018,
+    "izdelek":"Česen (kg)",
+    "enota":null,
+    "cena_eur":7.72
+  },
+  {
+    "leto":2018,
+    "izdelek":"Zelje in repa, kisla (kg)",
+    "enota":null,
+    "cena_eur":1.7
+  },
+  {
+    "leto":2018,
+    "izdelek":"Krompir (kg)",
+    "enota":null,
+    "cena_eur":0.77
+  },
+  {
+    "leto":2018,
+    "izdelek":"Sladkor, beli (kg)",
+    "enota":null,
+    "cena_eur":0.83
+  },
+  {
+    "leto":2018,
+    "izdelek":"Med, cvetlični (kg)",
+    "enota":null,
+    "cena_eur":7.9
+  },
+  {
+    "leto":2018,
+    "izdelek":"Džem (kg)",
+    "enota":null,
+    "cena_eur":5.6
+  },
+  {
+    "leto":2018,
+    "izdelek":"Čokolada (kg)",
+    "enota":null,
+    "cena_eur":9.46
+  },
+  {
+    "leto":2018,
+    "izdelek":"Sladoled (l)",
+    "enota":null,
+    "cena_eur":3.19
+  },
+  {
+    "leto":2018,
+    "izdelek":"Kis (l)",
+    "enota":null,
+    "cena_eur":1.45
+  },
+  {
+    "leto":2018,
+    "izdelek":"Sol, kuhinjska (kg)",
+    "enota":null,
+    "cena_eur":0.69
+  },
+  {
+    "leto":2018,
+    "izdelek":"Otroška hrana, za hitro pripravo (kg)",
+    "enota":null,
+    "cena_eur":8.18
+  },
+  {
+    "leto":2018,
+    "izdelek":"Kava, klasična (kg)",
+    "enota":null,
+    "cena_eur":9.24
+  },
+  {
+    "leto":2018,
+    "izdelek":"Čaj (zavitek)",
+    "enota":null,
+    "cena_eur":1.35
+  },
+  {
+    "leto":2018,
+    "izdelek":"Mineralna voda, gazirana (l)",
+    "enota":null,
+    "cena_eur":0.41
+  },
+  {
+    "leto":2018,
+    "izdelek":"Mineralna voda, negazirana (l)",
+    "enota":null,
+    "cena_eur":0.53
+  },
+  {
+    "leto":2018,
+    "izdelek":"Brezalkoholna pijača, gazirana (l)",
+    "enota":null,
+    "cena_eur":0.77
+  },
+  {
+    "leto":2018,
+    "izdelek":"Sok (l)",
+    "enota":null,
+    "cena_eur":1.37
+  },
+  {
+    "leto":2018,
+    "izdelek":"Naravno žganje (l)",
+    "enota":null,
+    "cena_eur":14.37
+  },
+  {
+    "leto":2018,
+    "izdelek":"Vino, namizno (l)",
+    "enota":null,
+    "cena_eur":1.98
+  },
+  {
+    "leto":2018,
+    "izdelek":"Vino, kakovostno (l)",
+    "enota":null,
+    "cena_eur":4.85
+  },
+  {
+    "leto":2018,
+    "izdelek":"Pivo, lager (l)",
+    "enota":null,
+    "cena_eur":1.77
+  },
+  {
+    "leto":2019,
+    "izdelek":"Riž, beli (kg)",
+    "enota":null,
+    "cena_eur":2.02
+  },
+  {
+    "leto":2019,
+    "izdelek":"Moka, pšenična, razen polnozrnata (kg)",
+    "enota":null,
+    "cena_eur":0.66
+  },
+  {
+    "leto":2019,
+    "izdelek":"Kruh (bel, polbel, črn) (kg)",
+    "enota":null,
+    "cena_eur":2.27
+  },
+  {
+    "leto":2019,
+    "izdelek":"Testenine (kg)",
+    "enota":null,
+    "cena_eur":2.34
+  },
+  {
+    "leto":2019,
+    "izdelek":"Kosmiči za zajtrk (kg)",
+    "enota":null,
+    "cena_eur":5.18
+  },
+  {
+    "leto":2019,
+    "izdelek":"Meso, goveje brez kosti (kg)",
+    "enota":null,
+    "cena_eur":7.95
+  },
+  {
+    "leto":2019,
+    "izdelek":"Meso, goveje s kostjo (kg)",
+    "enota":null,
+    "cena_eur":5.56
+  },
+  {
+    "leto":2019,
+    "izdelek":"Meso, svinjsko s kostjo (kg)",
+    "enota":null,
+    "cena_eur":4.8
+  },
+  {
+    "leto":2019,
+    "izdelek":"Meso, piščančje brez kosti (kg)",
+    "enota":null,
+    "cena_eur":7.47
+  },
+  {
+    "leto":2019,
+    "izdelek":"Meso, mleto mešano (kg)",
+    "enota":null,
+    "cena_eur":5.39
+  },
+  {
+    "leto":2019,
+    "izdelek":"Mleko, trajno, polnomastno (l)",
+    "enota":null,
+    "cena_eur":0.74
+  },
+  {
+    "leto":2019,
+    "izdelek":"Jogurt (kg)",
+    "enota":null,
+    "cena_eur":2.27
+  },
+  {
+    "leto":2019,
+    "izdelek":"Sir (kg)",
+    "enota":null,
+    "cena_eur":7.97
+  },
+  {
+    "leto":2019,
+    "izdelek":"Skuta (kg)",
+    "enota":null,
+    "cena_eur":3.88
+  },
+  {
+    "leto":2019,
+    "izdelek":"Jajca (10 kosov)",
+    "enota":null,
+    "cena_eur":1.64
+  },
+  {
+    "leto":2019,
+    "izdelek":"Maslo (kg)",
+    "enota":null,
+    "cena_eur":8.38
+  },
+  {
+    "leto":2019,
+    "izdelek":"Olje, olivno (l)",
+    "enota":null,
+    "cena_eur":7.29
+  },
+  {
+    "leto":2019,
+    "izdelek":"Olje, jedilno (l)",
+    "enota":null,
+    "cena_eur":1.35
+  },
+  {
+    "leto":2019,
+    "izdelek":"Limone (kg)",
+    "enota":null,
+    "cena_eur":1.79
+  },
+  {
+    "leto":2019,
+    "izdelek":"Pomaranče (kg)",
+    "enota":null,
+    "cena_eur":1.12
+  },
+  {
+    "leto":2019,
+    "izdelek":"Jabolka (kg)",
+    "enota":null,
+    "cena_eur":1.13
+  },
+  {
+    "leto":2019,
+    "izdelek":"Banane (kg)",
+    "enota":null,
+    "cena_eur":1.17
+  },
+  {
+    "leto":2019,
+    "izdelek":"Breskve (kg)",
+    "enota":null,
+    "cena_eur":1.64
+  },
+  {
+    "leto":2019,
+    "izdelek":"Jagode (kg)",
+    "enota":null,
+    "cena_eur":4.55
+  },
+  {
+    "leto":2019,
+    "izdelek":"Cvetača (kg)",
+    "enota":null,
+    "cena_eur":2.45
+  },
+  {
+    "leto":2019,
+    "izdelek":"Paradižnik, sveži (kg)",
+    "enota":null,
+    "cena_eur":3.3
+  },
+  {
+    "leto":2019,
+    "izdelek":"Čebula (kg)",
+    "enota":null,
+    "cena_eur":1.58
+  },
+  {
+    "leto":2019,
+    "izdelek":"Korenje (kg)",
+    "enota":null,
+    "cena_eur":1.14
+  },
+  {
+    "leto":2019,
+    "izdelek":"Česen (kg)",
+    "enota":null,
+    "cena_eur":7.5
+  },
+  {
+    "leto":2019,
+    "izdelek":"Zelje in repa, kisla (kg)",
+    "enota":null,
+    "cena_eur":1.8
+  },
+  {
+    "leto":2019,
+    "izdelek":"Krompir (kg)",
+    "enota":null,
+    "cena_eur":0.95
+  },
+  {
+    "leto":2019,
+    "izdelek":"Sladkor, beli (kg)",
+    "enota":null,
+    "cena_eur":0.82
+  },
+  {
+    "leto":2019,
+    "izdelek":"Med, cvetlični (kg)",
+    "enota":null,
+    "cena_eur":7.95
+  },
+  {
+    "leto":2019,
+    "izdelek":"Džem (kg)",
+    "enota":null,
+    "cena_eur":5.48
+  },
+  {
+    "leto":2019,
+    "izdelek":"Čokolada (kg)",
+    "enota":null,
+    "cena_eur":9.0
+  },
+  {
+    "leto":2019,
+    "izdelek":"Sladoled (l)",
+    "enota":null,
+    "cena_eur":3.31
+  },
+  {
+    "leto":2019,
+    "izdelek":"Kis (l)",
+    "enota":null,
+    "cena_eur":1.35
+  },
+  {
+    "leto":2019,
+    "izdelek":"Sol, kuhinjska (kg)",
+    "enota":null,
+    "cena_eur":0.72
+  },
+  {
+    "leto":2019,
+    "izdelek":"Otroška hrana, za hitro pripravo (kg)",
+    "enota":null,
+    "cena_eur":8.06
+  },
+  {
+    "leto":2019,
+    "izdelek":"Kava, klasična (kg)",
+    "enota":null,
+    "cena_eur":9.08
+  },
+  {
+    "leto":2019,
+    "izdelek":"Čaj (zavitek)",
+    "enota":null,
+    "cena_eur":1.35
+  },
+  {
+    "leto":2019,
+    "izdelek":"Mineralna voda, gazirana (l)",
+    "enota":null,
+    "cena_eur":0.44
+  },
+  {
+    "leto":2019,
+    "izdelek":"Mineralna voda, negazirana (l)",
+    "enota":null,
+    "cena_eur":0.63
+  },
+  {
+    "leto":2019,
+    "izdelek":"Brezalkoholna pijača, gazirana (l)",
+    "enota":null,
+    "cena_eur":0.9
+  },
+  {
+    "leto":2019,
+    "izdelek":"Sok (l)",
+    "enota":null,
+    "cena_eur":1.4
+  },
+  {
+    "leto":2019,
+    "izdelek":"Naravno žganje (l)",
+    "enota":null,
+    "cena_eur":14.28
+  },
+  {
+    "leto":2019,
+    "izdelek":"Vino, namizno (l)",
+    "enota":null,
+    "cena_eur":2.04
+  },
+  {
+    "leto":2019,
+    "izdelek":"Vino, kakovostno (l)",
+    "enota":null,
+    "cena_eur":4.05
+  },
+  {
+    "leto":2019,
+    "izdelek":"Pivo, lager (l)",
+    "enota":null,
+    "cena_eur":1.75
+  },
+  {
+    "leto":2020,
+    "izdelek":"Riž, beli (kg)",
+    "enota":null,
+    "cena_eur":2.05
+  },
+  {
+    "leto":2020,
+    "izdelek":"Moka, pšenična, razen polnozrnata (kg)",
+    "enota":null,
+    "cena_eur":0.72
+  },
+  {
+    "leto":2020,
+    "izdelek":"Kruh (bel, polbel, črn) (kg)",
+    "enota":null,
+    "cena_eur":2.42
+  },
+  {
+    "leto":2020,
+    "izdelek":"Testenine (kg)",
+    "enota":null,
+    "cena_eur":2.49
+  },
+  {
+    "leto":2020,
+    "izdelek":"Kosmiči za zajtrk (kg)",
+    "enota":null,
+    "cena_eur":5.19
+  },
+  {
+    "leto":2020,
+    "izdelek":"Meso, goveje brez kosti (kg)",
+    "enota":null,
+    "cena_eur":8.5
+  },
+  {
+    "leto":2020,
+    "izdelek":"Meso, goveje s kostjo (kg)",
+    "enota":null,
+    "cena_eur":6.27
+  },
+  {
+    "leto":2020,
+    "izdelek":"Meso, svinjsko s kostjo (kg)",
+    "enota":null,
+    "cena_eur":5.82
+  },
+  {
+    "leto":2020,
+    "izdelek":"Meso, piščančje brez kosti (kg)",
+    "enota":null,
+    "cena_eur":7.92
+  },
+  {
+    "leto":2020,
+    "izdelek":"Meso, mleto mešano (kg)",
+    "enota":null,
+    "cena_eur":6.62
+  },
+  {
+    "leto":2020,
+    "izdelek":"Mleko, trajno, polnomastno (l)",
+    "enota":null,
+    "cena_eur":0.77
+  },
+  {
+    "leto":2020,
+    "izdelek":"Jogurt (kg)",
+    "enota":null,
+    "cena_eur":2.25
+  },
+  {
+    "leto":2020,
+    "izdelek":"Sir (kg)",
+    "enota":null,
+    "cena_eur":8.36
+  },
+  {
+    "leto":2020,
+    "izdelek":"Skuta (kg)",
+    "enota":null,
+    "cena_eur":3.94
+  },
+  {
+    "leto":2020,
+    "izdelek":"Jajca (10 kosov)",
+    "enota":null,
+    "cena_eur":1.8
+  },
+  {
+    "leto":2020,
+    "izdelek":"Maslo (kg)",
+    "enota":null,
+    "cena_eur":8.44
+  },
+  {
+    "leto":2020,
+    "izdelek":"Olje, olivno (l)",
+    "enota":null,
+    "cena_eur":7.34
+  },
+  {
+    "leto":2020,
+    "izdelek":"Olje, jedilno (l)",
+    "enota":null,
+    "cena_eur":1.39
+  },
+  {
+    "leto":2020,
+    "izdelek":"Limone (kg)",
+    "enota":null,
+    "cena_eur":2.03
+  },
+  {
+    "leto":2020,
+    "izdelek":"Pomaranče (kg)",
+    "enota":null,
+    "cena_eur":1.4
+  },
+  {
+    "leto":2020,
+    "izdelek":"Jabolka (kg)",
+    "enota":null,
+    "cena_eur":1.53
+  },
+  {
+    "leto":2020,
+    "izdelek":"Banane (kg)",
+    "enota":null,
+    "cena_eur":1.15
+  },
+  {
+    "leto":2020,
+    "izdelek":"Breskve (kg)",
+    "enota":null,
+    "cena_eur":1.82
+  },
+  {
+    "leto":2020,
+    "izdelek":"Jagode (kg)",
+    "enota":null,
+    "cena_eur":5.81
+  },
+  {
+    "leto":2020,
+    "izdelek":"Cvetača (kg)",
+    "enota":null,
+    "cena_eur":2.5
+  },
+  {
+    "leto":2020,
+    "izdelek":"Paradižnik, sveži (kg)",
+    "enota":null,
+    "cena_eur":3.11
+  },
+  {
+    "leto":2020,
+    "izdelek":"Čebula (kg)",
+    "enota":null,
+    "cena_eur":1.3
+  },
+  {
+    "leto":2020,
+    "izdelek":"Korenje (kg)",
+    "enota":null,
+    "cena_eur":1.06
+  },
+  {
+    "leto":2020,
+    "izdelek":"Česen (kg)",
+    "enota":null,
+    "cena_eur":7.85
+  },
+  {
+    "leto":2020,
+    "izdelek":"Zelje in repa, kisla (kg)",
+    "enota":null,
+    "cena_eur":1.82
+  },
+  {
+    "leto":2020,
+    "izdelek":"Krompir (kg)",
+    "enota":null,
+    "cena_eur":0.77
+  },
+  {
+    "leto":2020,
+    "izdelek":"Sladkor, beli (kg)",
+    "enota":null,
+    "cena_eur":0.86
+  },
+  {
+    "leto":2020,
+    "izdelek":"Med, cvetlični (kg)",
+    "enota":null,
+    "cena_eur":8.1
+  },
+  {
+    "leto":2020,
+    "izdelek":"Džem (kg)",
+    "enota":null,
+    "cena_eur":6.17
+  },
+  {
+    "leto":2020,
+    "izdelek":"Čokolada (kg)",
+    "enota":null,
+    "cena_eur":9.37
+  },
+  {
+    "leto":2020,
+    "izdelek":"Sladoled (l)",
+    "enota":null,
+    "cena_eur":3.5
+  },
+  {
+    "leto":2020,
+    "izdelek":"Kis (l)",
+    "enota":null,
+    "cena_eur":1.45
+  },
+  {
+    "leto":2020,
+    "izdelek":"Sol, kuhinjska (kg)",
+    "enota":null,
+    "cena_eur":0.8
+  },
+  {
+    "leto":2020,
+    "izdelek":"Otroška hrana, za hitro pripravo (kg)",
+    "enota":null,
+    "cena_eur":8.18
+  },
+  {
+    "leto":2020,
+    "izdelek":"Kava, klasična (kg)",
+    "enota":null,
+    "cena_eur":9.0
+  },
+  {
+    "leto":2020,
+    "izdelek":"Čaj (zavitek)",
+    "enota":null,
+    "cena_eur":1.44
+  },
+  {
+    "leto":2020,
+    "izdelek":"Mineralna voda, gazirana (l)",
+    "enota":null,
+    "cena_eur":0.5
+  },
+  {
+    "leto":2020,
+    "izdelek":"Mineralna voda, negazirana (l)",
+    "enota":null,
+    "cena_eur":0.62
+  },
+  {
+    "leto":2020,
+    "izdelek":"Brezalkoholna pijača, gazirana (l)",
+    "enota":null,
+    "cena_eur":0.92
+  },
+  {
+    "leto":2020,
+    "izdelek":"Sok (l)",
+    "enota":null,
+    "cena_eur":1.43
+  },
+  {
+    "leto":2020,
+    "izdelek":"Naravno žganje (l)",
+    "enota":null,
+    "cena_eur":15.55
+  },
+  {
+    "leto":2020,
+    "izdelek":"Vino, namizno (l)",
+    "enota":null,
+    "cena_eur":2.05
+  },
+  {
+    "leto":2020,
+    "izdelek":"Vino, kakovostno (l)",
+    "enota":null,
+    "cena_eur":4.24
+  },
+  {
+    "leto":2020,
+    "izdelek":"Pivo, lager (l)",
+    "enota":null,
+    "cena_eur":1.76
+  },
+  {
+    "leto":2021,
+    "izdelek":"Riž, beli (kg)",
+    "enota":null,
+    "cena_eur":2.13
+  },
+  {
+    "leto":2021,
+    "izdelek":"Moka, pšenična, razen polnozrnata (kg)",
+    "enota":null,
+    "cena_eur":0.74
+  },
+  {
+    "leto":2021,
+    "izdelek":"Kruh (bel, polbel, črn) (kg)",
+    "enota":null,
+    "cena_eur":2.37
+  },
+  {
+    "leto":2021,
+    "izdelek":"Testenine (kg)",
+    "enota":null,
+    "cena_eur":2.62
+  },
+  {
+    "leto":2021,
+    "izdelek":"Kosmiči za zajtrk (kg)",
+    "enota":null,
+    "cena_eur":5.06
+  },
+  {
+    "leto":2021,
+    "izdelek":"Meso, goveje brez kosti (kg)",
+    "enota":null,
+    "cena_eur":9.2
+  },
+  {
+    "leto":2021,
+    "izdelek":"Meso, goveje s kostjo (kg)",
+    "enota":null,
+    "cena_eur":6.58
+  },
+  {
+    "leto":2021,
+    "izdelek":"Meso, svinjsko s kostjo (kg)",
+    "enota":null,
+    "cena_eur":5.22
+  },
+  {
+    "leto":2021,
+    "izdelek":"Meso, piščančje brez kosti (kg)",
+    "enota":null,
+    "cena_eur":7.98
+  },
+  {
+    "leto":2021,
+    "izdelek":"Meso, mleto mešano (kg)",
+    "enota":null,
+    "cena_eur":6.46
+  },
+  {
+    "leto":2021,
+    "izdelek":"Mleko, trajno, polnomastno (l)",
+    "enota":null,
+    "cena_eur":0.76
+  },
+  {
+    "leto":2021,
+    "izdelek":"Jogurt (kg)",
+    "enota":null,
+    "cena_eur":2.36
+  },
+  {
+    "leto":2021,
+    "izdelek":"Sir (kg)",
+    "enota":null,
+    "cena_eur":8.72
+  },
+  {
+    "leto":2021,
+    "izdelek":"Skuta (kg)",
+    "enota":null,
+    "cena_eur":4.04
+  },
+  {
+    "leto":2021,
+    "izdelek":"Jajca (10 kosov)",
+    "enota":null,
+    "cena_eur":2.02
+  },
+  {
+    "leto":2021,
+    "izdelek":"Maslo (kg)",
+    "enota":null,
+    "cena_eur":8.44
+  },
+  {
+    "leto":2021,
+    "izdelek":"Olje, olivno (l)",
+    "enota":null,
+    "cena_eur":7.66
+  },
+  {
+    "leto":2021,
+    "izdelek":"Olje, jedilno (l)",
+    "enota":null,
+    "cena_eur":1.67
+  },
+  {
+    "leto":2021,
+    "izdelek":"Limone (kg)",
+    "enota":null,
+    "cena_eur":1.77
+  },
+  {
+    "leto":2021,
+    "izdelek":"Pomaranče (kg)",
+    "enota":null,
+    "cena_eur":1.33
+  },
+  {
+    "leto":2021,
+    "izdelek":"Jabolka (kg)",
+    "enota":null,
+    "cena_eur":1.43
+  },
+  {
+    "leto":2021,
+    "izdelek":"Banane (kg)",
+    "enota":null,
+    "cena_eur":1.17
+  },
+  {
+    "leto":2021,
+    "izdelek":"Breskve (kg)",
+    "enota":null,
+    "cena_eur":1.94
+  },
+  {
+    "leto":2021,
+    "izdelek":"Jagode (kg)",
+    "enota":null,
+    "cena_eur":5.81
+  },
+  {
+    "leto":2021,
+    "izdelek":"Cvetača (kg)",
+    "enota":null,
+    "cena_eur":2.83
+  },
+  {
+    "leto":2021,
+    "izdelek":"Paradižnik, sveži (kg)",
+    "enota":null,
+    "cena_eur":3.93
+  },
+  {
+    "leto":2021,
+    "izdelek":"Čebula (kg)",
+    "enota":null,
+    "cena_eur":1.25
+  },
+  {
+    "leto":2021,
+    "izdelek":"Korenje (kg)",
+    "enota":null,
+    "cena_eur":1.15
+  },
+  {
+    "leto":2021,
+    "izdelek":"Česen (kg)",
+    "enota":null,
+    "cena_eur":8.03
+  },
+  {
+    "leto":2021,
+    "izdelek":"Zelje in repa, kisla (kg)",
+    "enota":null,
+    "cena_eur":1.81
+  },
+  {
+    "leto":2021,
+    "izdelek":"Krompir (kg)",
+    "enota":null,
+    "cena_eur":0.77
+  },
+  {
+    "leto":2021,
+    "izdelek":"Sladkor, beli (kg)",
+    "enota":null,
+    "cena_eur":0.86
+  },
+  {
+    "leto":2021,
+    "izdelek":"Med, cvetlični (kg)",
+    "enota":null,
+    "cena_eur":8.41
+  },
+  {
+    "leto":2021,
+    "izdelek":"Džem (kg)",
+    "enota":null,
+    "cena_eur":6.03
+  },
+  {
+    "leto":2021,
+    "izdelek":"Čokolada (kg)",
+    "enota":null,
+    "cena_eur":9.26
+  },
+  {
+    "leto":2021,
+    "izdelek":"Sladoled (l)",
+    "enota":null,
+    "cena_eur":3.73
+  },
+  {
+    "leto":2021,
+    "izdelek":"Kis (l)",
+    "enota":null,
+    "cena_eur":1.62
+  },
+  {
+    "leto":2021,
+    "izdelek":"Sol, kuhinjska (kg)",
+    "enota":null,
+    "cena_eur":0.71
+  },
+  {
+    "leto":2021,
+    "izdelek":"Otroška hrana, za hitro pripravo (kg)",
+    "enota":null,
+    "cena_eur":8.46
+  },
+  {
+    "leto":2021,
+    "izdelek":"Kava, klasična (kg)",
+    "enota":null,
+    "cena_eur":9.17
+  },
+  {
+    "leto":2021,
+    "izdelek":"Čaj (zavitek)",
+    "enota":null,
+    "cena_eur":1.5
+  },
+  {
+    "leto":2021,
+    "izdelek":"Mineralna voda, gazirana (l)",
+    "enota":null,
+    "cena_eur":0.61
+  },
+  {
+    "leto":2021,
+    "izdelek":"Mineralna voda, negazirana (l)",
+    "enota":null,
+    "cena_eur":0.62
+  },
+  {
+    "leto":2021,
+    "izdelek":"Brezalkoholna pijača, gazirana (l)",
+    "enota":null,
+    "cena_eur":0.98
+  },
+  {
+    "leto":2021,
+    "izdelek":"Sok (l)",
+    "enota":null,
+    "cena_eur":1.46
+  },
+  {
+    "leto":2021,
+    "izdelek":"Naravno žganje (l)",
+    "enota":null,
+    "cena_eur":15.52
+  },
+  {
+    "leto":2021,
+    "izdelek":"Vino, namizno (l)",
+    "enota":null,
+    "cena_eur":1.87
+  },
+  {
+    "leto":2021,
+    "izdelek":"Vino, kakovostno (l)",
+    "enota":null,
+    "cena_eur":4.59
+  },
+  {
+    "leto":2021,
+    "izdelek":"Pivo, lager (l)",
+    "enota":null,
+    "cena_eur":1.83
+  },
+  {
+    "leto":2022,
+    "izdelek":"Riž, beli (kg)",
+    "enota":null,
+    "cena_eur":2.32
+  },
+  {
+    "leto":2022,
+    "izdelek":"Moka, pšenična, razen polnozrnata (kg)",
+    "enota":null,
+    "cena_eur":0.92
+  },
+  {
+    "leto":2022,
+    "izdelek":"Kruh (bel, polbel, črn) (kg)",
+    "enota":null,
+    "cena_eur":2.87
+  },
+  {
+    "leto":2022,
+    "izdelek":"Testenine (kg)",
+    "enota":null,
+    "cena_eur":3.1
+  },
+  {
+    "leto":2022,
+    "izdelek":"Kosmiči za zajtrk (kg)",
+    "enota":null,
+    "cena_eur":5.7
+  },
+  {
+    "leto":2022,
+    "izdelek":"Meso, goveje brez kosti (kg)",
+    "enota":null,
+    "cena_eur":9.59
+  },
+  {
+    "leto":2022,
+    "izdelek":"Meso, goveje s kostjo (kg)",
+    "enota":null,
+    "cena_eur":7.46
+  },
+  {
+    "leto":2022,
+    "izdelek":"Meso, svinjsko s kostjo (kg)",
+    "enota":null,
+    "cena_eur":5.44
+  },
+  {
+    "leto":2022,
+    "izdelek":"Meso, piščančje brez kosti (kg)",
+    "enota":null,
+    "cena_eur":8.62
+  },
+  {
+    "leto":2022,
+    "izdelek":"Meso, mleto mešano (kg)",
+    "enota":null,
+    "cena_eur":7.05
+  },
+  {
+    "leto":2022,
+    "izdelek":"Mleko, trajno, polnomastno (l)",
+    "enota":null,
+    "cena_eur":1.0
+  },
+  {
+    "leto":2022,
+    "izdelek":"Jogurt (kg)",
+    "enota":null,
+    "cena_eur":2.57
+  },
+  {
+    "leto":2022,
+    "izdelek":"Sir (kg)",
+    "enota":null,
+    "cena_eur":11.12
+  },
+  {
+    "leto":2022,
+    "izdelek":"Skuta (kg)",
+    "enota":null,
+    "cena_eur":4.45
+  },
+  {
+    "leto":2022,
+    "izdelek":"Jajca (10 kosov)",
+    "enota":null,
+    "cena_eur":2.09
+  },
+  {
+    "leto":2022,
+    "izdelek":"Maslo (kg)",
+    "enota":null,
+    "cena_eur":10.05
+  },
+  {
+    "leto":2022,
+    "izdelek":"Olje, olivno (l)",
+    "enota":null,
+    "cena_eur":7.75
+  },
+  {
+    "leto":2022,
+    "izdelek":"Olje, jedilno (l)",
+    "enota":null,
+    "cena_eur":2.6
+  },
+  {
+    "leto":2022,
+    "izdelek":"Limone (kg)",
+    "enota":null,
+    "cena_eur":1.85
+  },
+  {
+    "leto":2022,
+    "izdelek":"Pomaranče (kg)",
+    "enota":null,
+    "cena_eur":1.46
+  },
+  {
+    "leto":2022,
+    "izdelek":"Jabolka (kg)",
+    "enota":null,
+    "cena_eur":1.51
+  },
+  {
+    "leto":2022,
+    "izdelek":"Banane (kg)",
+    "enota":null,
+    "cena_eur":1.32
+  },
+  {
+    "leto":2022,
+    "izdelek":"Breskve (kg)",
+    "enota":null,
+    "cena_eur":2.15
+  },
+  {
+    "leto":2022,
+    "izdelek":"Jagode (kg)",
+    "enota":null,
+    "cena_eur":5.73
+  },
+  {
+    "leto":2022,
+    "izdelek":"Cvetača (kg)",
+    "enota":null,
+    "cena_eur":2.61
+  },
+  {
+    "leto":2022,
+    "izdelek":"Paradižnik, sveži (kg)",
+    "enota":null,
+    "cena_eur":4.65
+  },
+  {
+    "leto":2022,
+    "izdelek":"Čebula (kg)",
+    "enota":null,
+    "cena_eur":1.48
+  },
+  {
+    "leto":2022,
+    "izdelek":"Korenje (kg)",
+    "enota":null,
+    "cena_eur":1.1
+  },
+  {
+    "leto":2022,
+    "izdelek":"Česen (kg)",
+    "enota":null,
+    "cena_eur":7.4
+  },
+  {
+    "leto":2022,
+    "izdelek":"Zelje in repa, kisla (kg)",
+    "enota":null,
+    "cena_eur":1.93
+  },
+  {
+    "leto":2022,
+    "izdelek":"Krompir (kg)",
+    "enota":null,
+    "cena_eur":0.94
+  },
+  {
+    "leto":2022,
+    "izdelek":"Sladkor, beli (kg)",
+    "enota":null,
+    "cena_eur":1.19
+  },
+  {
+    "leto":2022,
+    "izdelek":"Med, cvetlični (kg)",
+    "enota":null,
+    "cena_eur":9.25
+  },
+  {
+    "leto":2022,
+    "izdelek":"Džem (kg)",
+    "enota":null,
+    "cena_eur":6.7
+  },
+  {
+    "leto":2022,
+    "izdelek":"Čokolada (kg)",
+    "enota":null,
+    "cena_eur":9.4
+  },
+  {
+    "leto":2022,
+    "izdelek":"Sladoled (l)",
+    "enota":null,
+    "cena_eur":4.02
+  },
+  {
+    "leto":2022,
+    "izdelek":"Kis (l)",
+    "enota":null,
+    "cena_eur":1.71
+  },
+  {
+    "leto":2022,
+    "izdelek":"Sol, kuhinjska (kg)",
+    "enota":null,
+    "cena_eur":0.8
+  },
+  {
+    "leto":2022,
+    "izdelek":"Otroška hrana, za hitro pripravo (kg)",
+    "enota":null,
+    "cena_eur":9.57
+  },
+  {
+    "leto":2022,
+    "izdelek":"Kava, klasična (kg)",
+    "enota":null,
+    "cena_eur":10.37
+  },
+  {
+    "leto":2022,
+    "izdelek":"Čaj (zavitek)",
+    "enota":null,
+    "cena_eur":1.62
+  },
+  {
+    "leto":2022,
+    "izdelek":"Mineralna voda, gazirana (l)",
+    "enota":null,
+    "cena_eur":0.63
+  },
+  {
+    "leto":2022,
+    "izdelek":"Mineralna voda, negazirana (l)",
+    "enota":null,
+    "cena_eur":0.77
+  },
+  {
+    "leto":2022,
+    "izdelek":"Brezalkoholna pijača, gazirana (l)",
+    "enota":null,
+    "cena_eur":1.14
+  },
+  {
+    "leto":2022,
+    "izdelek":"Sok (l)",
+    "enota":null,
+    "cena_eur":1.52
+  },
+  {
+    "leto":2022,
+    "izdelek":"Naravno žganje (l)",
+    "enota":null,
+    "cena_eur":16.4
+  },
+  {
+    "leto":2022,
+    "izdelek":"Vino, namizno (l)",
+    "enota":null,
+    "cena_eur":2.19
+  },
+  {
+    "leto":2022,
+    "izdelek":"Vino, kakovostno (l)",
+    "enota":null,
+    "cena_eur":4.7
+  },
+  {
+    "leto":2022,
+    "izdelek":"Pivo, lager (l)",
+    "enota":null,
+    "cena_eur":1.93
+  },
+  {
+    "leto":2023,
+    "izdelek":"Riž, beli (kg)",
+    "enota":null,
+    "cena_eur":2.68
+  },
+  {
+    "leto":2023,
+    "izdelek":"Moka, pšenična, razen polnozrnata (kg)",
+    "enota":null,
+    "cena_eur":0.91
+  },
+  {
+    "leto":2023,
+    "izdelek":"Kruh (bel, polbel, črn) (kg)",
+    "enota":null,
+    "cena_eur":3.3
+  },
+  {
+    "leto":2023,
+    "izdelek":"Testenine (kg)",
+    "enota":null,
+    "cena_eur":3.34
+  },
+  {
+    "leto":2023,
+    "izdelek":"Kosmiči za zajtrk (kg)",
+    "enota":null,
+    "cena_eur":6.29
+  },
+  {
+    "leto":2023,
+    "izdelek":"Meso, goveje brez kosti (kg)",
+    "enota":null,
+    "cena_eur":10.1
+  },
+  {
+    "leto":2023,
+    "izdelek":"Meso, goveje s kostjo (kg)",
+    "enota":null,
+    "cena_eur":8.55
+  },
+  {
+    "leto":2023,
+    "izdelek":"Meso, svinjsko s kostjo (kg)",
+    "enota":null,
+    "cena_eur":5.27
+  },
+  {
+    "leto":2023,
+    "izdelek":"Meso, piščančje brez kosti (kg)",
+    "enota":null,
+    "cena_eur":8.55
+  },
+  {
+    "leto":2023,
+    "izdelek":"Meso, mleto mešano (kg)",
+    "enota":null,
+    "cena_eur":7.33
+  },
+  {
+    "leto":2023,
+    "izdelek":"Mleko, trajno, polnomastno (l)",
+    "enota":null,
+    "cena_eur":1.16
+  },
+  {
+    "leto":2023,
+    "izdelek":"Jogurt (kg)",
+    "enota":null,
+    "cena_eur":2.75
+  },
+  {
+    "leto":2023,
+    "izdelek":"Sir (kg)",
+    "enota":null,
+    "cena_eur":10.54
+  },
+  {
+    "leto":2023,
+    "izdelek":"Skuta (kg)",
+    "enota":null,
+    "cena_eur":5.07
+  },
+  {
+    "leto":2023,
+    "izdelek":"Jajca (10 kosov)",
+    "enota":null,
+    "cena_eur":2.39
+  },
+  {
+    "leto":2023,
+    "izdelek":"Maslo (kg)",
+    "enota":null,
+    "cena_eur":10.1
+  },
+  {
+    "leto":2023,
+    "izdelek":"Olje, olivno (l)",
+    "enota":null,
+    "cena_eur":9.21
+  },
+  {
+    "leto":2023,
+    "izdelek":"Olje, jedilno (l)",
+    "enota":null,
+    "cena_eur":2.04
+  },
+  {
+    "leto":2023,
+    "izdelek":"Limone (kg)",
+    "enota":null,
+    "cena_eur":1.88
+  },
+  {
+    "leto":2023,
+    "izdelek":"Pomaranče (kg)",
+    "enota":null,
+    "cena_eur":1.52
+  },
+  {
+    "leto":2023,
+    "izdelek":"Jabolka (kg)",
+    "enota":null,
+    "cena_eur":1.45
+  },
+  {
+    "leto":2023,
+    "izdelek":"Banane (kg)",
+    "enota":null,
+    "cena_eur":1.36
+  },
+  {
+    "leto":2023,
+    "izdelek":"Breskve (kg)",
+    "enota":null,
+    "cena_eur":2.43
+  },
+  {
+    "leto":2023,
+    "izdelek":"Jagode (kg)",
+    "enota":null,
+    "cena_eur":6.9
+  },
+  {
+    "leto":2023,
+    "izdelek":"Cvetača (kg)",
+    "enota":null,
+    "cena_eur":2.86
+  },
+  {
+    "leto":2023,
+    "izdelek":"Paradižnik, sveži (kg)",
+    "enota":null,
+    "cena_eur":4.03
+  },
+  {
+    "leto":2023,
+    "izdelek":"Čebula (kg)",
+    "enota":null,
+    "cena_eur":1.5
+  },
+  {
+    "leto":2023,
+    "izdelek":"Korenje (kg)",
+    "enota":null,
+    "cena_eur":1.4
+  },
+  {
+    "leto":2023,
+    "izdelek":"Česen (kg)",
+    "enota":null,
+    "cena_eur":7.38
+  },
+  {
+    "leto":2023,
+    "izdelek":"Zelje in repa, kisla (kg)",
+    "enota":null,
+    "cena_eur":2.17
+  },
+  {
+    "leto":2023,
+    "izdelek":"Krompir (kg)",
+    "enota":null,
+    "cena_eur":1.03
+  },
+  {
+    "leto":2023,
+    "izdelek":"Sladkor, beli (kg)",
+    "enota":null,
+    "cena_eur":1.49
+  },
+  {
+    "leto":2023,
+    "izdelek":"Med, cvetlični (kg)",
+    "enota":null,
+    "cena_eur":9.42
+  },
+  {
+    "leto":2023,
+    "izdelek":"Džem (kg)",
+    "enota":null,
+    "cena_eur":7.65
+  },
+  {
+    "leto":2023,
+    "izdelek":"Čokolada (kg)",
+    "enota":null,
+    "cena_eur":10.43
+  },
+  {
+    "leto":2023,
+    "izdelek":"Sladoled (l)",
+    "enota":null,
+    "cena_eur":4.29
+  },
+  {
+    "leto":2023,
+    "izdelek":"Kis (l)",
+    "enota":null,
+    "cena_eur":2.01
+  },
+  {
+    "leto":2023,
+    "izdelek":"Sol, kuhinjska (kg)",
+    "enota":null,
+    "cena_eur":1.15
+  },
+  {
+    "leto":2023,
+    "izdelek":"Otroška hrana, za hitro pripravo (kg)",
+    "enota":null,
+    "cena_eur":10.47
+  },
+  {
+    "leto":2023,
+    "izdelek":"Kava, klasična (kg)",
+    "enota":null,
+    "cena_eur":11.49
+  },
+  {
+    "leto":2023,
+    "izdelek":"Čaj (zavitek)",
+    "enota":null,
+    "cena_eur":1.78
+  },
+  {
+    "leto":2023,
+    "izdelek":"Mineralna voda, gazirana (l)",
+    "enota":null,
+    "cena_eur":0.69
+  },
+  {
+    "leto":2023,
+    "izdelek":"Mineralna voda, negazirana (l)",
+    "enota":null,
+    "cena_eur":1.01
+  },
+  {
+    "leto":2023,
+    "izdelek":"Brezalkoholna pijača, gazirana (l)",
+    "enota":null,
+    "cena_eur":1.29
+  },
+  {
+    "leto":2023,
+    "izdelek":"Sok (l)",
+    "enota":null,
+    "cena_eur":1.69
+  },
+  {
+    "leto":2023,
+    "izdelek":"Naravno žganje (l)",
+    "enota":null,
+    "cena_eur":17.67
+  },
+  {
+    "leto":2023,
+    "izdelek":"Vino, namizno (l)",
+    "enota":null,
+    "cena_eur":2.23
+  },
+  {
+    "leto":2023,
+    "izdelek":"Vino, kakovostno (l)",
+    "enota":null,
+    "cena_eur":4.71
+  },
+  {
+    "leto":2023,
+    "izdelek":"Pivo, lager (l)",
+    "enota":null,
+    "cena_eur":2.1
+  },
+  {
+    "leto":2024,
+    "izdelek":"Riž, beli (kg)",
+    "enota":null,
+    "cena_eur":2.59
+  },
+  {
+    "leto":2024,
+    "izdelek":"Moka, pšenična, razen polnozrnata (kg)",
+    "enota":null,
+    "cena_eur":0.87
+  },
+  {
+    "leto":2024,
+    "izdelek":"Kruh (bel, polbel, črn) (kg)",
+    "enota":null,
+    "cena_eur":3.42
+  },
+  {
+    "leto":2024,
+    "izdelek":"Testenine (kg)",
+    "enota":null,
+    "cena_eur":3.27
+  },
+  {
+    "leto":2024,
+    "izdelek":"Kosmiči za zajtrk (kg)",
+    "enota":null,
+    "cena_eur":6.61
+  },
+  {
+    "leto":2024,
+    "izdelek":"Meso, goveje brez kosti (kg)",
+    "enota":null,
+    "cena_eur":10.75
+  },
+  {
+    "leto":2024,
+    "izdelek":"Meso, goveje s kostjo (kg)",
+    "enota":null,
+    "cena_eur":9.82
+  },
+  {
+    "leto":2024,
+    "izdelek":"Meso, svinjsko s kostjo (kg)",
+    "enota":null,
+    "cena_eur":4.96
+  },
+  {
+    "leto":2024,
+    "izdelek":"Meso, piščančje brez kosti (kg)",
+    "enota":null,
+    "cena_eur":8.27
+  },
+  {
+    "leto":2024,
+    "izdelek":"Meso, mleto mešano (kg)",
+    "enota":null,
+    "cena_eur":6.8
+  },
+  {
+    "leto":2024,
+    "izdelek":"Mleko, trajno, polnomastno (l)",
+    "enota":null,
+    "cena_eur":1.12
+  },
+  {
+    "leto":2024,
+    "izdelek":"Jogurt (kg)",
+    "enota":null,
+    "cena_eur":2.72
+  },
+  {
+    "leto":2024,
+    "izdelek":"Sir (kg)",
+    "enota":null,
+    "cena_eur":10.41
+  },
+  {
+    "leto":2024,
+    "izdelek":"Skuta (kg)",
+    "enota":null,
+    "cena_eur":5.04
+  },
+  {
+    "leto":2024,
+    "izdelek":"Jajca (10 kosov)",
+    "enota":null,
+    "cena_eur":2.38
+  },
+  {
+    "leto":2024,
+    "izdelek":"Maslo (kg)",
+    "enota":null,
+    "cena_eur":10.02
+  },
+  {
+    "leto":2024,
+    "izdelek":"Olje, olivno (l)",
+    "enota":null,
+    "cena_eur":13.82
+  },
+  {
+    "leto":2024,
+    "izdelek":"Olje, jedilno (l)",
+    "enota":null,
+    "cena_eur":1.55
+  },
+  {
+    "leto":2024,
+    "izdelek":"Limone (kg)",
+    "enota":null,
+    "cena_eur":1.89
+  },
+  {
+    "leto":2024,
+    "izdelek":"Pomaranče (kg)",
+    "enota":null,
+    "cena_eur":1.5
+  },
+  {
+    "leto":2024,
+    "izdelek":"Jabolka (kg)",
+    "enota":null,
+    "cena_eur":1.49
+  },
+  {
+    "leto":2024,
+    "izdelek":"Banane (kg)",
+    "enota":null,
+    "cena_eur":1.27
+  },
+  {
+    "leto":2024,
+    "izdelek":"Breskve (kg)",
+    "enota":null,
+    "cena_eur":2.33
+  },
+  {
+    "leto":2024,
+    "izdelek":"Jagode (kg)",
+    "enota":null,
+    "cena_eur":7.49
+  },
+  {
+    "leto":2024,
+    "izdelek":"Cvetača (kg)",
+    "enota":null,
+    "cena_eur":3.06
+  },
+  {
+    "leto":2024,
+    "izdelek":"Paradižnik, sveži (kg)",
+    "enota":null,
+    "cena_eur":4.44
+  },
+  {
+    "leto":2024,
+    "izdelek":"Čebula (kg)",
+    "enota":null,
+    "cena_eur":1.48
+  },
+  {
+    "leto":2024,
+    "izdelek":"Korenje (kg)",
+    "enota":null,
+    "cena_eur":1.27
+  },
+  {
+    "leto":2024,
+    "izdelek":"Česen (kg)",
+    "enota":null,
+    "cena_eur":7.66
+  },
+  {
+    "leto":2024,
+    "izdelek":"Zelje in repa, kisla (kg)",
+    "enota":null,
+    "cena_eur":2.23
+  },
+  {
+    "leto":2024,
+    "izdelek":"Krompir (kg)",
+    "enota":null,
+    "cena_eur":1.04
+  },
+  {
+    "leto":2024,
+    "izdelek":"Sladkor, beli (kg)",
+    "enota":null,
+    "cena_eur":1.45
+  },
+  {
+    "leto":2024,
+    "izdelek":"Med, cvetlični (kg)",
+    "enota":null,
+    "cena_eur":9.24
+  },
+  {
+    "leto":2024,
+    "izdelek":"Džem (kg)",
+    "enota":null,
+    "cena_eur":7.71
+  },
+  {
+    "leto":2024,
+    "izdelek":"Čokolada (kg)",
+    "enota":null,
+    "cena_eur":11.81
+  },
+  {
+    "leto":2024,
+    "izdelek":"Sladoled (l)",
+    "enota":null,
+    "cena_eur":4.07
+  },
+  {
+    "leto":2024,
+    "izdelek":"Kis (l)",
+    "enota":null,
+    "cena_eur":2.04
+  },
+  {
+    "leto":2024,
+    "izdelek":"Sol, kuhinjska (kg)",
+    "enota":null,
+    "cena_eur":1.52
+  },
+  {
+    "leto":2024,
+    "izdelek":"Otroška hrana, za hitro pripravo (kg)",
+    "enota":null,
+    "cena_eur":10.66
+  },
+  {
+    "leto":2024,
+    "izdelek":"Kava, klasična (kg)",
+    "enota":null,
+    "cena_eur":12.19
+  },
+  {
+    "leto":2024,
+    "izdelek":"Čaj (zavitek)",
+    "enota":null,
+    "cena_eur":1.89
+  },
+  {
+    "leto":2024,
+    "izdelek":"Mineralna voda, gazirana (l)",
+    "enota":null,
+    "cena_eur":0.73
+  },
+  {
+    "leto":2024,
+    "izdelek":"Mineralna voda, negazirana (l)",
+    "enota":null,
+    "cena_eur":1.08
+  },
+  {
+    "leto":2024,
+    "izdelek":"Brezalkoholna pijača, gazirana (l)",
+    "enota":null,
+    "cena_eur":1.33
+  },
+  {
+    "leto":2024,
+    "izdelek":"Sok (l)",
+    "enota":null,
+    "cena_eur":1.85
+  },
+  {
+    "leto":2024,
+    "izdelek":"Naravno žganje (l)",
+    "enota":null,
+    "cena_eur":17.84
+  },
+  {
+    "leto":2024,
+    "izdelek":"Vino, namizno (l)",
+    "enota":null,
+    "cena_eur":2.22
+  },
+  {
+    "leto":2024,
+    "izdelek":"Vino, kakovostno (l)",
+    "enota":null,
+    "cena_eur":4.96
+  },
+  {
+    "leto":2024,
+    "izdelek":"Pivo, lager (l)",
+    "enota":null,
+    "cena_eur":2.24
+  }
+]

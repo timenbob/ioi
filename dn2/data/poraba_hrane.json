@@ -1,0 +1,1514 @@
+[
+  {
+    "leto":2000,
+    "izdelek":"Riž",
+    "enota":"kg",
+    "kolicina":3.8
+  },
+  {
+    "leto":2000,
+    "izdelek":"Kruh in drugi pekovski izdelki",
+    "enota":"kg",
+    "kolicina":64.1
+  },
+  {
+    "leto":2000,
+    "izdelek":"Testenine in kuskus",
+    "enota":"kg",
+    "kolicina":6.6
+  },
+  {
+    "leto":2000,
+    "izdelek":"Moka vseh vrst, kosmiči in zdrob",
+    "enota":"kg",
+    "kolicina":27.0
+  },
+  {
+    "leto":2000,
+    "izdelek":"Meso in mesni izdelki",
+    "enota":"kg",
+    "kolicina":62.5
+  },
+  {
+    "leto":2000,
+    "izdelek":"Ribe (sveže in zamrznjene)",
+    "enota":"kg",
+    "kolicina":2.0
+  },
+  {
+    "leto":2000,
+    "izdelek":"Jajca",
+    "enota":"kos",
+    "kolicina":145.7
+  },
+  {
+    "leto":2000,
+    "izdelek":"Mleko, polmastno in lahko",
+    "enota":"liter",
+    "kolicina":79.4
+  },
+  {
+    "leto":2000,
+    "izdelek":"Jedilno olje",
+    "enota":"liter",
+    "kolicina":14.1
+  },
+  {
+    "leto":2000,
+    "izdelek":"Sadje vseh vrst",
+    "enota":"kg",
+    "kolicina":68.4
+  },
+  {
+    "leto":2000,
+    "izdelek":"Zelenjava vseh vrst",
+    "enota":"kg",
+    "kolicina":107.7
+  },
+  {
+    "leto":2000,
+    "izdelek":"Sladkor",
+    "enota":"kg",
+    "kolicina":14.7
+  },
+  {
+    "leto":2000,
+    "izdelek":"Kava, prava in nadomestki",
+    "enota":"kg",
+    "kolicina":3.1
+  },
+  {
+    "leto":2000,
+    "izdelek":"Brezalkoholne pijače (gazirane pijače, ledeni čaj, energetski napitki,...)",
+    "enota":"liter",
+    "kolicina":30.9
+  },
+  {
+    "leto":2000,
+    "izdelek":"Sadni sokovi",
+    "enota":"liter",
+    "kolicina":28.2
+  },
+  {
+    "leto":2000,
+    "izdelek":"Žgane pijače (viski, liker, konjak, vodka, rum...)",
+    "enota":"liter",
+    "kolicina":0.6
+  },
+  {
+    "leto":2000,
+    "izdelek":"Vino",
+    "enota":"liter",
+    "kolicina":25.7
+  },
+  {
+    "leto":2000,
+    "izdelek":"Pivo (tudi brezalkoholno)",
+    "enota":"liter",
+    "kolicina":23.9
+  },
+  {
+    "leto":2001,
+    "izdelek":"Riž",
+    "enota":"kg",
+    "kolicina":3.9
+  },
+  {
+    "leto":2001,
+    "izdelek":"Kruh in drugi pekovski izdelki",
+    "enota":"kg",
+    "kolicina":60.7
+  },
+  {
+    "leto":2001,
+    "izdelek":"Testenine in kuskus",
+    "enota":"kg",
+    "kolicina":6.6
+  },
+  {
+    "leto":2001,
+    "izdelek":"Moka vseh vrst, kosmiči in zdrob",
+    "enota":"kg",
+    "kolicina":24.9
+  },
+  {
+    "leto":2001,
+    "izdelek":"Meso in mesni izdelki",
+    "enota":"kg",
+    "kolicina":58.8
+  },
+  {
+    "leto":2001,
+    "izdelek":"Ribe (sveže in zamrznjene)",
+    "enota":"kg",
+    "kolicina":2.0
+  },
+  {
+    "leto":2001,
+    "izdelek":"Jajca",
+    "enota":"kos",
+    "kolicina":136.5
+  },
+  {
+    "leto":2001,
+    "izdelek":"Mleko, polmastno in lahko",
+    "enota":"liter",
+    "kolicina":78.4
+  },
+  {
+    "leto":2001,
+    "izdelek":"Jedilno olje",
+    "enota":"liter",
+    "kolicina":14.2
+  },
+  {
+    "leto":2001,
+    "izdelek":"Sadje vseh vrst",
+    "enota":"kg",
+    "kolicina":68.8
+  },
+  {
+    "leto":2001,
+    "izdelek":"Zelenjava vseh vrst",
+    "enota":"kg",
+    "kolicina":100.8
+  },
+  {
+    "leto":2001,
+    "izdelek":"Sladkor",
+    "enota":"kg",
+    "kolicina":14.2
+  },
+  {
+    "leto":2001,
+    "izdelek":"Kava, prava in nadomestki",
+    "enota":"kg",
+    "kolicina":3.2
+  },
+  {
+    "leto":2001,
+    "izdelek":"Brezalkoholne pijače (gazirane pijače, ledeni čaj, energetski napitki,...)",
+    "enota":"liter",
+    "kolicina":29.3
+  },
+  {
+    "leto":2001,
+    "izdelek":"Sadni sokovi",
+    "enota":"liter",
+    "kolicina":31.1
+  },
+  {
+    "leto":2001,
+    "izdelek":"Žgane pijače (viski, liker, konjak, vodka, rum...)",
+    "enota":"liter",
+    "kolicina":0.5
+  },
+  {
+    "leto":2001,
+    "izdelek":"Vino",
+    "enota":"liter",
+    "kolicina":24.0
+  },
+  {
+    "leto":2001,
+    "izdelek":"Pivo (tudi brezalkoholno)",
+    "enota":"liter",
+    "kolicina":21.6
+  },
+  {
+    "leto":2002,
+    "izdelek":"Riž",
+    "enota":"kg",
+    "kolicina":3.7
+  },
+  {
+    "leto":2002,
+    "izdelek":"Kruh in drugi pekovski izdelki",
+    "enota":"kg",
+    "kolicina":56.8
+  },
+  {
+    "leto":2002,
+    "izdelek":"Testenine in kuskus",
+    "enota":"kg",
+    "kolicina":6.5
+  },
+  {
+    "leto":2002,
+    "izdelek":"Moka vseh vrst, kosmiči in zdrob",
+    "enota":"kg",
+    "kolicina":23.6
+  },
+  {
+    "leto":2002,
+    "izdelek":"Meso in mesni izdelki",
+    "enota":"kg",
+    "kolicina":55.7
+  },
+  {
+    "leto":2002,
+    "izdelek":"Ribe (sveže in zamrznjene)",
+    "enota":"kg",
+    "kolicina":2.1
+  },
+  {
+    "leto":2002,
+    "izdelek":"Jajca",
+    "enota":"kos",
+    "kolicina":126.0
+  },
+  {
+    "leto":2002,
+    "izdelek":"Mleko, polmastno in lahko",
+    "enota":"liter",
+    "kolicina":76.4
+  },
+  {
+    "leto":2002,
+    "izdelek":"Jedilno olje",
+    "enota":"liter",
+    "kolicina":13.5
+  },
+  {
+    "leto":2002,
+    "izdelek":"Sadje vseh vrst",
+    "enota":"kg",
+    "kolicina":70.0
+  },
+  {
+    "leto":2002,
+    "izdelek":"Zelenjava vseh vrst",
+    "enota":"kg",
+    "kolicina":94.8
+  },
+  {
+    "leto":2002,
+    "izdelek":"Sladkor",
+    "enota":"kg",
+    "kolicina":13.7
+  },
+  {
+    "leto":2002,
+    "izdelek":"Kava, prava in nadomestki",
+    "enota":"kg",
+    "kolicina":3.2
+  },
+  {
+    "leto":2002,
+    "izdelek":"Brezalkoholne pijače (gazirane pijače, ledeni čaj, energetski napitki,...)",
+    "enota":"liter",
+    "kolicina":29.4
+  },
+  {
+    "leto":2002,
+    "izdelek":"Sadni sokovi",
+    "enota":"liter",
+    "kolicina":33.5
+  },
+  {
+    "leto":2002,
+    "izdelek":"Žgane pijače (viski, liker, konjak, vodka, rum...)",
+    "enota":"liter",
+    "kolicina":0.6
+  },
+  {
+    "leto":2002,
+    "izdelek":"Vino",
+    "enota":"liter",
+    "kolicina":21.6
+  },
+  {
+    "leto":2002,
+    "izdelek":"Pivo (tudi brezalkoholno)",
+    "enota":"liter",
+    "kolicina":20.2
+  },
+  {
+    "leto":2003,
+    "izdelek":"Riž",
+    "enota":"kg",
+    "kolicina":3.5
+  },
+  {
+    "leto":2003,
+    "izdelek":"Kruh in drugi pekovski izdelki",
+    "enota":"kg",
+    "kolicina":52.8
+  },
+  {
+    "leto":2003,
+    "izdelek":"Testenine in kuskus",
+    "enota":"kg",
+    "kolicina":6.6
+  },
+  {
+    "leto":2003,
+    "izdelek":"Moka vseh vrst, kosmiči in zdrob",
+    "enota":"kg",
+    "kolicina":23.8
+  },
+  {
+    "leto":2003,
+    "izdelek":"Meso in mesni izdelki",
+    "enota":"kg",
+    "kolicina":52.8
+  },
+  {
+    "leto":2003,
+    "izdelek":"Ribe (sveže in zamrznjene)",
+    "enota":"kg",
+    "kolicina":2.0
+  },
+  {
+    "leto":2003,
+    "izdelek":"Jajca",
+    "enota":"kos",
+    "kolicina":112.7
+  },
+  {
+    "leto":2003,
+    "izdelek":"Mleko, polmastno in lahko",
+    "enota":"liter",
+    "kolicina":74.6
+  },
+  {
+    "leto":2003,
+    "izdelek":"Jedilno olje",
+    "enota":"liter",
+    "kolicina":12.3
+  },
+  {
+    "leto":2003,
+    "izdelek":"Sadje vseh vrst",
+    "enota":"kg",
+    "kolicina":70.2
+  },
+  {
+    "leto":2003,
+    "izdelek":"Zelenjava vseh vrst",
+    "enota":"kg",
+    "kolicina":95.7
+  },
+  {
+    "leto":2003,
+    "izdelek":"Sladkor",
+    "enota":"kg",
+    "kolicina":13.4
+  },
+  {
+    "leto":2003,
+    "izdelek":"Kava, prava in nadomestki",
+    "enota":"kg",
+    "kolicina":3.1
+  },
+  {
+    "leto":2003,
+    "izdelek":"Brezalkoholne pijače (gazirane pijače, ledeni čaj, energetski napitki,...)",
+    "enota":"liter",
+    "kolicina":29.1
+  },
+  {
+    "leto":2003,
+    "izdelek":"Sadni sokovi",
+    "enota":"liter",
+    "kolicina":33.0
+  },
+  {
+    "leto":2003,
+    "izdelek":"Žgane pijače (viski, liker, konjak, vodka, rum...)",
+    "enota":"liter",
+    "kolicina":0.6
+  },
+  {
+    "leto":2003,
+    "izdelek":"Vino",
+    "enota":"liter",
+    "kolicina":19.9
+  },
+  {
+    "leto":2003,
+    "izdelek":"Pivo (tudi brezalkoholno)",
+    "enota":"liter",
+    "kolicina":20.2
+  },
+  {
+    "leto":2004,
+    "izdelek":"Riž",
+    "enota":"kg",
+    "kolicina":3.1
+  },
+  {
+    "leto":2004,
+    "izdelek":"Kruh in drugi pekovski izdelki",
+    "enota":"kg",
+    "kolicina":50.0
+  },
+  {
+    "leto":2004,
+    "izdelek":"Testenine in kuskus",
+    "enota":"kg",
+    "kolicina":6.4
+  },
+  {
+    "leto":2004,
+    "izdelek":"Moka vseh vrst, kosmiči in zdrob",
+    "enota":"kg",
+    "kolicina":21.8
+  },
+  {
+    "leto":2004,
+    "izdelek":"Meso in mesni izdelki",
+    "enota":"kg",
+    "kolicina":52.5
+  },
+  {
+    "leto":2004,
+    "izdelek":"Ribe (sveže in zamrznjene)",
+    "enota":"kg",
+    "kolicina":1.9
+  },
+  {
+    "leto":2004,
+    "izdelek":"Jajca",
+    "enota":"kos",
+    "kolicina":109.2
+  },
+  {
+    "leto":2004,
+    "izdelek":"Mleko, polmastno in lahko",
+    "enota":"liter",
+    "kolicina":73.4
+  },
+  {
+    "leto":2004,
+    "izdelek":"Jedilno olje",
+    "enota":"liter",
+    "kolicina":11.6
+  },
+  {
+    "leto":2004,
+    "izdelek":"Sadje vseh vrst",
+    "enota":"kg",
+    "kolicina":70.9
+  },
+  {
+    "leto":2004,
+    "izdelek":"Zelenjava vseh vrst",
+    "enota":"kg",
+    "kolicina":98.7
+  },
+  {
+    "leto":2004,
+    "izdelek":"Sladkor",
+    "enota":"kg",
+    "kolicina":12.4
+  },
+  {
+    "leto":2004,
+    "izdelek":"Kava, prava in nadomestki",
+    "enota":"kg",
+    "kolicina":3.1
+  },
+  {
+    "leto":2004,
+    "izdelek":"Brezalkoholne pijače (gazirane pijače, ledeni čaj, energetski napitki,...)",
+    "enota":"liter",
+    "kolicina":31.9
+  },
+  {
+    "leto":2004,
+    "izdelek":"Sadni sokovi",
+    "enota":"liter",
+    "kolicina":30.4
+  },
+  {
+    "leto":2004,
+    "izdelek":"Žgane pijače (viski, liker, konjak, vodka, rum...)",
+    "enota":"liter",
+    "kolicina":0.6
+  },
+  {
+    "leto":2004,
+    "izdelek":"Vino",
+    "enota":"liter",
+    "kolicina":19.0
+  },
+  {
+    "leto":2004,
+    "izdelek":"Pivo (tudi brezalkoholno)",
+    "enota":"liter",
+    "kolicina":22.0
+  },
+  {
+    "leto":2005,
+    "izdelek":"Riž",
+    "enota":"kg",
+    "kolicina":3.0
+  },
+  {
+    "leto":2005,
+    "izdelek":"Kruh in drugi pekovski izdelki",
+    "enota":"kg",
+    "kolicina":46.1
+  },
+  {
+    "leto":2005,
+    "izdelek":"Testenine in kuskus",
+    "enota":"kg",
+    "kolicina":6.7
+  },
+  {
+    "leto":2005,
+    "izdelek":"Moka vseh vrst, kosmiči in zdrob",
+    "enota":"kg",
+    "kolicina":19.6
+  },
+  {
+    "leto":2005,
+    "izdelek":"Meso in mesni izdelki",
+    "enota":"kg",
+    "kolicina":52.2
+  },
+  {
+    "leto":2005,
+    "izdelek":"Ribe (sveže in zamrznjene)",
+    "enota":"kg",
+    "kolicina":1.8
+  },
+  {
+    "leto":2005,
+    "izdelek":"Jajca",
+    "enota":"kos",
+    "kolicina":102.2
+  },
+  {
+    "leto":2005,
+    "izdelek":"Mleko, polmastno in lahko",
+    "enota":"liter",
+    "kolicina":69.9
+  },
+  {
+    "leto":2005,
+    "izdelek":"Jedilno olje",
+    "enota":"liter",
+    "kolicina":11.2
+  },
+  {
+    "leto":2005,
+    "izdelek":"Sadje vseh vrst",
+    "enota":"kg",
+    "kolicina":70.1
+  },
+  {
+    "leto":2005,
+    "izdelek":"Zelenjava vseh vrst",
+    "enota":"kg",
+    "kolicina":99.9
+  },
+  {
+    "leto":2005,
+    "izdelek":"Sladkor",
+    "enota":"kg",
+    "kolicina":10.9
+  },
+  {
+    "leto":2005,
+    "izdelek":"Kava, prava in nadomestki",
+    "enota":"kg",
+    "kolicina":3.1
+  },
+  {
+    "leto":2005,
+    "izdelek":"Brezalkoholne pijače (gazirane pijače, ledeni čaj, energetski napitki,...)",
+    "enota":"liter",
+    "kolicina":35.6
+  },
+  {
+    "leto":2005,
+    "izdelek":"Sadni sokovi",
+    "enota":"liter",
+    "kolicina":26.2
+  },
+  {
+    "leto":2005,
+    "izdelek":"Žgane pijače (viski, liker, konjak, vodka, rum...)",
+    "enota":"liter",
+    "kolicina":0.7
+  },
+  {
+    "leto":2005,
+    "izdelek":"Vino",
+    "enota":"liter",
+    "kolicina":16.9
+  },
+  {
+    "leto":2005,
+    "izdelek":"Pivo (tudi brezalkoholno)",
+    "enota":"liter",
+    "kolicina":23.3
+  },
+  {
+    "leto":2006,
+    "izdelek":"Riž",
+    "enota":"kg",
+    "kolicina":3.0
+  },
+  {
+    "leto":2006,
+    "izdelek":"Kruh in drugi pekovski izdelki",
+    "enota":"kg",
+    "kolicina":42.3
+  },
+  {
+    "leto":2006,
+    "izdelek":"Testenine in kuskus",
+    "enota":"kg",
+    "kolicina":6.5
+  },
+  {
+    "leto":2006,
+    "izdelek":"Moka vseh vrst, kosmiči in zdrob",
+    "enota":"kg",
+    "kolicina":18.2
+  },
+  {
+    "leto":2006,
+    "izdelek":"Meso in mesni izdelki",
+    "enota":"kg",
+    "kolicina":52.2
+  },
+  {
+    "leto":2006,
+    "izdelek":"Ribe (sveže in zamrznjene)",
+    "enota":"kg",
+    "kolicina":1.6
+  },
+  {
+    "leto":2006,
+    "izdelek":"Jajca",
+    "enota":"kos",
+    "kolicina":97.7
+  },
+  {
+    "leto":2006,
+    "izdelek":"Mleko, polmastno in lahko",
+    "enota":"liter",
+    "kolicina":65.6
+  },
+  {
+    "leto":2006,
+    "izdelek":"Jedilno olje",
+    "enota":"liter",
+    "kolicina":10.7
+  },
+  {
+    "leto":2006,
+    "izdelek":"Sadje vseh vrst",
+    "enota":"kg",
+    "kolicina":66.8
+  },
+  {
+    "leto":2006,
+    "izdelek":"Zelenjava vseh vrst",
+    "enota":"kg",
+    "kolicina":93.9
+  },
+  {
+    "leto":2006,
+    "izdelek":"Sladkor",
+    "enota":"kg",
+    "kolicina":10.1
+  },
+  {
+    "leto":2006,
+    "izdelek":"Kava, prava in nadomestki",
+    "enota":"kg",
+    "kolicina":3.1
+  },
+  {
+    "leto":2006,
+    "izdelek":"Brezalkoholne pijače (gazirane pijače, ledeni čaj, energetski napitki,...)",
+    "enota":"liter",
+    "kolicina":38.5
+  },
+  {
+    "leto":2006,
+    "izdelek":"Sadni sokovi",
+    "enota":"liter",
+    "kolicina":23.0
+  },
+  {
+    "leto":2006,
+    "izdelek":"Žgane pijače (viski, liker, konjak, vodka, rum...)",
+    "enota":"liter",
+    "kolicina":0.8
+  },
+  {
+    "leto":2006,
+    "izdelek":"Vino",
+    "enota":"liter",
+    "kolicina":15.8
+  },
+  {
+    "leto":2006,
+    "izdelek":"Pivo (tudi brezalkoholno)",
+    "enota":"liter",
+    "kolicina":25.1
+  },
+  {
+    "leto":2007,
+    "izdelek":"Riž",
+    "enota":"kg",
+    "kolicina":3.0
+  },
+  {
+    "leto":2007,
+    "izdelek":"Kruh in drugi pekovski izdelki",
+    "enota":"kg",
+    "kolicina":39.0
+  },
+  {
+    "leto":2007,
+    "izdelek":"Testenine in kuskus",
+    "enota":"kg",
+    "kolicina":6.5
+  },
+  {
+    "leto":2007,
+    "izdelek":"Moka vseh vrst, kosmiči in zdrob",
+    "enota":"kg",
+    "kolicina":17.8
+  },
+  {
+    "leto":2007,
+    "izdelek":"Meso in mesni izdelki",
+    "enota":"kg",
+    "kolicina":51.7
+  },
+  {
+    "leto":2007,
+    "izdelek":"Ribe (sveže in zamrznjene)",
+    "enota":"kg",
+    "kolicina":1.4
+  },
+  {
+    "leto":2007,
+    "izdelek":"Jajca",
+    "enota":"kos",
+    "kolicina":93.7
+  },
+  {
+    "leto":2007,
+    "izdelek":"Mleko, polmastno in lahko",
+    "enota":"liter",
+    "kolicina":65.4
+  },
+  {
+    "leto":2007,
+    "izdelek":"Jedilno olje",
+    "enota":"liter",
+    "kolicina":10.4
+  },
+  {
+    "leto":2007,
+    "izdelek":"Sadje vseh vrst",
+    "enota":"kg",
+    "kolicina":66.0
+  },
+  {
+    "leto":2007,
+    "izdelek":"Zelenjava vseh vrst",
+    "enota":"kg",
+    "kolicina":89.9
+  },
+  {
+    "leto":2007,
+    "izdelek":"Sladkor",
+    "enota":"kg",
+    "kolicina":10.0
+  },
+  {
+    "leto":2007,
+    "izdelek":"Kava, prava in nadomestki",
+    "enota":"kg",
+    "kolicina":3.2
+  },
+  {
+    "leto":2007,
+    "izdelek":"Brezalkoholne pijače (gazirane pijače, ledeni čaj, energetski napitki,...)",
+    "enota":"liter",
+    "kolicina":39.3
+  },
+  {
+    "leto":2007,
+    "izdelek":"Sadni sokovi",
+    "enota":"liter",
+    "kolicina":21.3
+  },
+  {
+    "leto":2007,
+    "izdelek":"Žgane pijače (viski, liker, konjak, vodka, rum...)",
+    "enota":"liter",
+    "kolicina":0.8
+  },
+  {
+    "leto":2007,
+    "izdelek":"Vino",
+    "enota":"liter",
+    "kolicina":13.9
+  },
+  {
+    "leto":2007,
+    "izdelek":"Pivo (tudi brezalkoholno)",
+    "enota":"liter",
+    "kolicina":26.4
+  },
+  {
+    "leto":2008,
+    "izdelek":"Riž",
+    "enota":"kg",
+    "kolicina":2.9
+  },
+  {
+    "leto":2008,
+    "izdelek":"Kruh in drugi pekovski izdelki",
+    "enota":"kg",
+    "kolicina":38.6
+  },
+  {
+    "leto":2008,
+    "izdelek":"Testenine in kuskus",
+    "enota":"kg",
+    "kolicina":6.2
+  },
+  {
+    "leto":2008,
+    "izdelek":"Moka vseh vrst, kosmiči in zdrob",
+    "enota":"kg",
+    "kolicina":18.2
+  },
+  {
+    "leto":2008,
+    "izdelek":"Meso in mesni izdelki",
+    "enota":"kg",
+    "kolicina":51.2
+  },
+  {
+    "leto":2008,
+    "izdelek":"Ribe (sveže in zamrznjene)",
+    "enota":"kg",
+    "kolicina":1.4
+  },
+  {
+    "leto":2008,
+    "izdelek":"Jajca",
+    "enota":"kos",
+    "kolicina":100.2
+  },
+  {
+    "leto":2008,
+    "izdelek":"Mleko, polmastno in lahko",
+    "enota":"liter",
+    "kolicina":66.1
+  },
+  {
+    "leto":2008,
+    "izdelek":"Jedilno olje",
+    "enota":"liter",
+    "kolicina":10.3
+  },
+  {
+    "leto":2008,
+    "izdelek":"Sadje vseh vrst",
+    "enota":"kg",
+    "kolicina":68.5
+  },
+  {
+    "leto":2008,
+    "izdelek":"Zelenjava vseh vrst",
+    "enota":"kg",
+    "kolicina":92.7
+  },
+  {
+    "leto":2008,
+    "izdelek":"Sladkor",
+    "enota":"kg",
+    "kolicina":10.6
+  },
+  {
+    "leto":2008,
+    "izdelek":"Kava, prava in nadomestki",
+    "enota":"kg",
+    "kolicina":3.3
+  },
+  {
+    "leto":2008,
+    "izdelek":"Brezalkoholne pijače (gazirane pijače, ledeni čaj, energetski napitki,...)",
+    "enota":"liter",
+    "kolicina":37.6
+  },
+  {
+    "leto":2008,
+    "izdelek":"Sadni sokovi",
+    "enota":"liter",
+    "kolicina":21.5
+  },
+  {
+    "leto":2008,
+    "izdelek":"Žgane pijače (viski, liker, konjak, vodka, rum...)",
+    "enota":"liter",
+    "kolicina":0.8
+  },
+  {
+    "leto":2008,
+    "izdelek":"Vino",
+    "enota":"liter",
+    "kolicina":14.2
+  },
+  {
+    "leto":2008,
+    "izdelek":"Pivo (tudi brezalkoholno)",
+    "enota":"liter",
+    "kolicina":27.2
+  },
+  {
+    "leto":2009,
+    "izdelek":"Riž",
+    "enota":"kg",
+    "kolicina":2.5
+  },
+  {
+    "leto":2009,
+    "izdelek":"Kruh in drugi pekovski izdelki",
+    "enota":"kg",
+    "kolicina":37.9
+  },
+  {
+    "leto":2009,
+    "izdelek":"Testenine in kuskus",
+    "enota":"kg",
+    "kolicina":5.9
+  },
+  {
+    "leto":2009,
+    "izdelek":"Moka vseh vrst, kosmiči in zdrob",
+    "enota":"kg",
+    "kolicina":16.5
+  },
+  {
+    "leto":2009,
+    "izdelek":"Meso in mesni izdelki",
+    "enota":"kg",
+    "kolicina":48.7
+  },
+  {
+    "leto":2009,
+    "izdelek":"Ribe (sveže in zamrznjene)",
+    "enota":"kg",
+    "kolicina":1.4
+  },
+  {
+    "leto":2009,
+    "izdelek":"Jajca",
+    "enota":"kos",
+    "kolicina":100.7
+  },
+  {
+    "leto":2009,
+    "izdelek":"Mleko, polmastno in lahko",
+    "enota":"liter",
+    "kolicina":64.5
+  },
+  {
+    "leto":2009,
+    "izdelek":"Jedilno olje",
+    "enota":"liter",
+    "kolicina":9.8
+  },
+  {
+    "leto":2009,
+    "izdelek":"Sadje vseh vrst",
+    "enota":"kg",
+    "kolicina":69.6
+  },
+  {
+    "leto":2009,
+    "izdelek":"Zelenjava vseh vrst",
+    "enota":"kg",
+    "kolicina":92.8
+  },
+  {
+    "leto":2009,
+    "izdelek":"Sladkor",
+    "enota":"kg",
+    "kolicina":9.9
+  },
+  {
+    "leto":2009,
+    "izdelek":"Kava, prava in nadomestki",
+    "enota":"kg",
+    "kolicina":3.4
+  },
+  {
+    "leto":2009,
+    "izdelek":"Brezalkoholne pijače (gazirane pijače, ledeni čaj, energetski napitki,...)",
+    "enota":"liter",
+    "kolicina":35.9
+  },
+  {
+    "leto":2009,
+    "izdelek":"Sadni sokovi",
+    "enota":"liter",
+    "kolicina":22.4
+  },
+  {
+    "leto":2009,
+    "izdelek":"Žgane pijače (viski, liker, konjak, vodka, rum...)",
+    "enota":"liter",
+    "kolicina":0.9
+  },
+  {
+    "leto":2009,
+    "izdelek":"Vino",
+    "enota":"liter",
+    "kolicina":13.1
+  },
+  {
+    "leto":2009,
+    "izdelek":"Pivo (tudi brezalkoholno)",
+    "enota":"liter",
+    "kolicina":25.6
+  },
+  {
+    "leto":2010,
+    "izdelek":"Riž",
+    "enota":"kg",
+    "kolicina":2.4
+  },
+  {
+    "leto":2010,
+    "izdelek":"Kruh in drugi pekovski izdelki",
+    "enota":"kg",
+    "kolicina":38.6
+  },
+  {
+    "leto":2010,
+    "izdelek":"Testenine in kuskus",
+    "enota":"kg",
+    "kolicina":6.7
+  },
+  {
+    "leto":2010,
+    "izdelek":"Moka vseh vrst, kosmiči in zdrob",
+    "enota":"kg",
+    "kolicina":16.2
+  },
+  {
+    "leto":2010,
+    "izdelek":"Meso in mesni izdelki",
+    "enota":"kg",
+    "kolicina":48.5
+  },
+  {
+    "leto":2010,
+    "izdelek":"Ribe (sveže in zamrznjene)",
+    "enota":"kg",
+    "kolicina":1.6
+  },
+  {
+    "leto":2010,
+    "izdelek":"Jajca",
+    "enota":"kos",
+    "kolicina":101.6
+  },
+  {
+    "leto":2010,
+    "izdelek":"Mleko, polmastno in lahko",
+    "enota":"liter",
+    "kolicina":63.1
+  },
+  {
+    "leto":2010,
+    "izdelek":"Jedilno olje",
+    "enota":"liter",
+    "kolicina":9.2
+  },
+  {
+    "leto":2010,
+    "izdelek":"Sadje vseh vrst",
+    "enota":"kg",
+    "kolicina":70.9
+  },
+  {
+    "leto":2010,
+    "izdelek":"Zelenjava vseh vrst",
+    "enota":"kg",
+    "kolicina":94.5
+  },
+  {
+    "leto":2010,
+    "izdelek":"Sladkor",
+    "enota":"kg",
+    "kolicina":9.8
+  },
+  {
+    "leto":2010,
+    "izdelek":"Kava, prava in nadomestki",
+    "enota":"kg",
+    "kolicina":3.4
+  },
+  {
+    "leto":2010,
+    "izdelek":"Brezalkoholne pijače (gazirane pijače, ledeni čaj, energetski napitki,...)",
+    "enota":"liter",
+    "kolicina":36.7
+  },
+  {
+    "leto":2010,
+    "izdelek":"Sadni sokovi",
+    "enota":"liter",
+    "kolicina":22.4
+  },
+  {
+    "leto":2010,
+    "izdelek":"Žgane pijače (viski, liker, konjak, vodka, rum...)",
+    "enota":"liter",
+    "kolicina":0.9
+  },
+  {
+    "leto":2010,
+    "izdelek":"Vino",
+    "enota":"liter",
+    "kolicina":13.7
+  },
+  {
+    "leto":2010,
+    "izdelek":"Pivo (tudi brezalkoholno)",
+    "enota":"liter",
+    "kolicina":27.3
+  },
+  {
+    "leto":2012,
+    "izdelek":"Riž",
+    "enota":"kg",
+    "kolicina":2.6
+  },
+  {
+    "leto":2012,
+    "izdelek":"Kruh in drugi pekovski izdelki",
+    "enota":"kg",
+    "kolicina":34.2
+  },
+  {
+    "leto":2012,
+    "izdelek":"Testenine in kuskus",
+    "enota":"kg",
+    "kolicina":6.4
+  },
+  {
+    "leto":2012,
+    "izdelek":"Moka vseh vrst, kosmiči in zdrob",
+    "enota":"kg",
+    "kolicina":17.4
+  },
+  {
+    "leto":2012,
+    "izdelek":"Meso in mesni izdelki",
+    "enota":"kg",
+    "kolicina":47.7
+  },
+  {
+    "leto":2012,
+    "izdelek":"Ribe (sveže in zamrznjene)",
+    "enota":"kg",
+    "kolicina":1.5
+  },
+  {
+    "leto":2012,
+    "izdelek":"Jajca",
+    "enota":"kos",
+    "kolicina":87.7
+  },
+  {
+    "leto":2012,
+    "izdelek":"Mleko, polmastno in lahko",
+    "enota":"liter",
+    "kolicina":54.1
+  },
+  {
+    "leto":2012,
+    "izdelek":"Jedilno olje",
+    "enota":"liter",
+    "kolicina":10.5
+  },
+  {
+    "leto":2012,
+    "izdelek":"Sadje vseh vrst",
+    "enota":"kg",
+    "kolicina":72.0
+  },
+  {
+    "leto":2012,
+    "izdelek":"Zelenjava vseh vrst",
+    "enota":"kg",
+    "kolicina":84.4
+  },
+  {
+    "leto":2012,
+    "izdelek":"Sladkor",
+    "enota":"kg",
+    "kolicina":8.0
+  },
+  {
+    "leto":2012,
+    "izdelek":"Kava, prava in nadomestki",
+    "enota":"kg",
+    "kolicina":3.5
+  },
+  {
+    "leto":2012,
+    "izdelek":"Brezalkoholne pijače (gazirane pijače, ledeni čaj, energetski napitki,...)",
+    "enota":"liter",
+    "kolicina":29.4
+  },
+  {
+    "leto":2012,
+    "izdelek":"Sadni sokovi",
+    "enota":"liter",
+    "kolicina":21.6
+  },
+  {
+    "leto":2012,
+    "izdelek":"Žgane pijače (viski, liker, konjak, vodka, rum...)",
+    "enota":"liter",
+    "kolicina":1.0
+  },
+  {
+    "leto":2012,
+    "izdelek":"Vino",
+    "enota":"liter",
+    "kolicina":10.9
+  },
+  {
+    "leto":2012,
+    "izdelek":"Pivo (tudi brezalkoholno)",
+    "enota":"liter",
+    "kolicina":26.4
+  },
+  {
+    "leto":2015,
+    "izdelek":"Riž",
+    "enota":"kg",
+    "kolicina":2.3
+  },
+  {
+    "leto":2015,
+    "izdelek":"Kruh in drugi pekovski izdelki",
+    "enota":"kg",
+    "kolicina":27.5
+  },
+  {
+    "leto":2015,
+    "izdelek":"Testenine in kuskus",
+    "enota":"kg",
+    "kolicina":5.8
+  },
+  {
+    "leto":2015,
+    "izdelek":"Moka vseh vrst, kosmiči in zdrob",
+    "enota":"kg",
+    "kolicina":11.9
+  },
+  {
+    "leto":2015,
+    "izdelek":"Meso in mesni izdelki",
+    "enota":"kg",
+    "kolicina":43.2
+  },
+  {
+    "leto":2015,
+    "izdelek":"Ribe (sveže in zamrznjene)",
+    "enota":"kg",
+    "kolicina":1.7
+  },
+  {
+    "leto":2015,
+    "izdelek":"Jajca",
+    "enota":"kos",
+    "kolicina":80.2
+  },
+  {
+    "leto":2015,
+    "izdelek":"Mleko, polmastno in lahko",
+    "enota":"liter",
+    "kolicina":46.8
+  },
+  {
+    "leto":2015,
+    "izdelek":"Jedilno olje",
+    "enota":"liter",
+    "kolicina":8.9
+  },
+  {
+    "leto":2015,
+    "izdelek":"Sadje vseh vrst",
+    "enota":"kg",
+    "kolicina":63.8
+  },
+  {
+    "leto":2015,
+    "izdelek":"Zelenjava vseh vrst",
+    "enota":"kg",
+    "kolicina":79.1
+  },
+  {
+    "leto":2015,
+    "izdelek":"Sladkor",
+    "enota":"kg",
+    "kolicina":7.0
+  },
+  {
+    "leto":2015,
+    "izdelek":"Kava, prava in nadomestki",
+    "enota":"kg",
+    "kolicina":3.1
+  },
+  {
+    "leto":2015,
+    "izdelek":"Brezalkoholne pijače (gazirane pijače, ledeni čaj, energetski napitki,...)",
+    "enota":"liter",
+    "kolicina":23.4
+  },
+  {
+    "leto":2015,
+    "izdelek":"Sadni sokovi",
+    "enota":"liter",
+    "kolicina":13.2
+  },
+  {
+    "leto":2015,
+    "izdelek":"Žgane pijače (viski, liker, konjak, vodka, rum...)",
+    "enota":"liter",
+    "kolicina":0.9
+  },
+  {
+    "leto":2015,
+    "izdelek":"Vino",
+    "enota":"liter",
+    "kolicina":7.8
+  },
+  {
+    "leto":2015,
+    "izdelek":"Pivo (tudi brezalkoholno)",
+    "enota":"liter",
+    "kolicina":26.4
+  },
+  {
+    "leto":2018,
+    "izdelek":"Riž",
+    "enota":"kg",
+    "kolicina":2.3
+  },
+  {
+    "leto":2018,
+    "izdelek":"Kruh in drugi pekovski izdelki",
+    "enota":"kg",
+    "kolicina":26.9
+  },
+  {
+    "leto":2018,
+    "izdelek":"Testenine in kuskus",
+    "enota":"kg",
+    "kolicina":6.7
+  },
+  {
+    "leto":2018,
+    "izdelek":"Moka vseh vrst, kosmiči in zdrob",
+    "enota":"kg",
+    "kolicina":12.1
+  },
+  {
+    "leto":2018,
+    "izdelek":"Meso in mesni izdelki",
+    "enota":"kg",
+    "kolicina":42.9
+  },
+  {
+    "leto":2018,
+    "izdelek":"Ribe (sveže in zamrznjene)",
+    "enota":"kg",
+    "kolicina":1.1
+  },
+  {
+    "leto":2018,
+    "izdelek":"Jajca",
+    "enota":"kos",
+    "kolicina":80.3
+  },
+  {
+    "leto":2018,
+    "izdelek":"Mleko, polmastno in lahko",
+    "enota":"liter",
+    "kolicina":43.0
+  },
+  {
+    "leto":2018,
+    "izdelek":"Jedilno olje",
+    "enota":"liter",
+    "kolicina":7.4
+  },
+  {
+    "leto":2018,
+    "izdelek":"Sadje vseh vrst",
+    "enota":"kg",
+    "kolicina":59.4
+  },
+  {
+    "leto":2018,
+    "izdelek":"Zelenjava vseh vrst",
+    "enota":"kg",
+    "kolicina":78.6
+  },
+  {
+    "leto":2018,
+    "izdelek":"Sladkor",
+    "enota":"kg",
+    "kolicina":6.4
+  },
+  {
+    "leto":2018,
+    "izdelek":"Kava, prava in nadomestki",
+    "enota":"kg",
+    "kolicina":3.0
+  },
+  {
+    "leto":2018,
+    "izdelek":"Brezalkoholne pijače (gazirane pijače, ledeni čaj, energetski napitki,...)",
+    "enota":"liter",
+    "kolicina":24.0
+  },
+  {
+    "leto":2018,
+    "izdelek":"Sadni sokovi",
+    "enota":"liter",
+    "kolicina":16.5
+  },
+  {
+    "leto":2018,
+    "izdelek":"Žgane pijače (viski, liker, konjak, vodka, rum...)",
+    "enota":"liter",
+    "kolicina":1.1
+  },
+  {
+    "leto":2018,
+    "izdelek":"Vino",
+    "enota":"liter",
+    "kolicina":8.5
+  },
+  {
+    "leto":2018,
+    "izdelek":"Pivo (tudi brezalkoholno)",
+    "enota":"liter",
+    "kolicina":26.4
+  }
+]

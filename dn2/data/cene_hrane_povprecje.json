@@ -1,0 +1,30 @@
+[
+  {
+    "leto":2018,
+    "povprecna_cena":3.6328571429
+  },
+  {
+    "leto":2019,
+    "povprecna_cena":3.6712244898
+  },
+  {
+    "leto":2020,
+    "povprecna_cena":3.8853061224
+  },
+  {
+    "leto":2021,
+    "povprecna_cena":3.9689795918
+  },
+  {
+    "leto":2022,
+    "povprecna_cena":4.3416326531
+  },
+  {
+    "leto":2023,
+    "povprecna_cena":4.633877551
+  },
+  {
+    "leto":2024,
+    "povprecna_cena":4.8244897959
+  }
+]
