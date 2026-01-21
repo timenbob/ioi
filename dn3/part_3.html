@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Medvedi</title>
+
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+
+</head>
+
+<body>
+
+  <h1>Medvedi – premiki 1993–1999</h1>
+
+
+  <div id="map"></div>
+
+  <script>
+    const spec = {
+      "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+      "title": "Premikanje rjavih medvedov v času",
+      "width": 900,
+      "height": 870,
+      "projection": {"type": "mercator"},
+
+
+      "params": [//da lahko unasamo notri datum
+        {
+          "name": "startDate",
+          "value": "1994-12-01",
+          "bind": {
+            "input": "date",
+            "name": "Začetek: "
+          }
+        },
+        {
+          "name": "endDate",
+          "value": "1996-06-30",
+          "bind": {
+            "input": "date",
+            "name": "Konec: "
+          }
+        }
+      ],
+
+      "layer": [
+        {
+          "data": {
+            "url": "data/Obcine-epsg4326.geojson",
+            "format": {"type": "json", "property": "features"}
+          },
+          "mark": {"type": "geoshape", "fill": "#eee", "stroke": "#aaa"}
+        },
+        {
+          "data": {"url": "data/medvedi.json"},
+          "transform": [
+            {//datum je vrstica iz jsona
+              "filter": "toDate(datum.timestamp) >= toDate(startDate) && toDate(datum.timestamp) <= toDate(endDate)"
+            }
+          ],
+          "mark": {"type": "circle", "opacity": 0.7},
+          "encoding": {
+            "longitude": {"field": "location-long", "type": "quantitative"},
+            "latitude": {"field": "location-lat", "type": "quantitative"},
+            "color": {
+              "field": "individual-local-identifier",
+              "type": "nominal",
+              "title": "Medved"
+            },
+            "tooltip": [
+              {"field": "individual-local-identifier", "title": "Medved"},
+              {"field": "timestamp", "type": "temporal", "title": "Čas"}
+            ]
+          }
+        }
+      ]
+    };
+
+
+    vegaEmbed('#map', spec);
+  </script>
+
+</body>
+</html>
