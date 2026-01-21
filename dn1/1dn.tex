@@ -1,0 +1,92 @@
+\documentclass{article}
+\usepackage{graphicx}
+\usepackage{hyperref}
+
+
+\title{Domača naloga pri predmetu Interaktivno oblikovanje informacij}
+\author{Timen Bobnar}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{Del 1}
+\subsection{Odgovori na vprašanja}
+\begin{enumerate}
+    \item Potreboval sem kar nekaj časa, da sem ugotovil, kaj naj bi bili podatki. Zaključek je, da podatki predstavljajo, kako se posameznik počuti glede znanosti. Imamo dve pozitivni ter dve negativni kategoriji, ki opisujejo posameznikovo percepcijo znanosti.
+    \item Vizualizacija odgovarja na vprašanje, kako se posamezniki počutijo glede znanosti. 
+    \item Barve in pozicije krogov poudarijo vsebinsko razliko med posameznimi informacijami, kar je dobro.
+    \item Največji problem imam glede pozicije krogov. The Excluded in The Included sta na diagonali, prav tako Sceptics in Enthusiasts. To me zelo moti – ko pogledam vizualizacijo, me takoj zmede, kaj gledam. Namesto da bi bili krogi vezani po diagonali, bi morali biti po vrsticah, da bi lahko lažje primerjali. Še ena moteča stvar je, da se odstotki ne seštejejo v 100 procentov.
+    \item Vizualizacija uporablja prijetne barve, vendar me zmede. Že odgovori na prvo in četrto vprašanje podajo odgovor – vizualizacija je zelo zmedena in težko je razbrati informacije iz nje.
+\end{enumerate}
+
+\subsection{LLM in kritika}
+Odgovori LLM-a:
+\begin{enumerate}
+    \item Vizualizacija prikazuje, kako ljudje dojemajo koristi znanosti na osebni in družbeni ravni. 
+    Prikazane so štiri skupine:
+    \begin{itemize}
+        \item \textbf{Enthusiasts (38\%)} – menijo, da znanost koristi tako njim osebno kot tudi družbi,
+        \item \textbf{The Included (29\%)} – menijo, da znanost koristi predvsem družbi, manj pa posamezniku,
+        \item \textbf{The Excluded (11\%)} – menijo, da znanost koristi posameznikom, ne pa širši družbi,
+        \item \textbf{Sceptics (8\%)} – menijo, da znanost ne koristi ne družbi ne posamezniku.
+    \end{itemize}
+    \item Graf odgovarja na vprašanje, kako različno ljudje ocenjujejo koristi znanosti glede na osebno in družbeno raven ter kolikšen delež ljudi spada v posamezno skupino.
+    \item Učinkovito je, da je graf razdeljen na štiri kvadrante, ki jasno ločijo skupine glede na dva kriterija (koristi za družbo in koristi za posameznika). Barvna legenda je jasna, velikost krogov pa intuitivno ponazarja delež posamezne skupine.
+    \item Manj učinkovito je, da osi niso jasno označene z merilno lestvico ali konkretno razlago, kaj pomeni višja ali nižja vrednost. Zaradi tega gledalec težko razume, na kateri podlagi so bile skupine postavljene v kvadrante. Prav tako ni povsem jasno, zakaj 15\% ljudi ni bilo vključenih – to bi lahko bilo bolj vidno označeno.
+    \item Vizualizacija mi je delno všeč, saj s preprostimi barvami in postavitvijo učinkovito prikaže razlike v odnosu do znanosti. Vendar bi bila bolj razumljiva, če bi bile osi natančneje označene, dodani kratki opisi pomena vsake skupine in pojasnjen izračun deležev.
+\end{enumerate}
+
+Primerjava kritik: \\
+Odgovori so precej podobni. Edina razlika v kritikah je, da mene veliko bolj motijo odstotki in pozicija informacij, medtem ko LLM tega ni niti opazil.
+
+\subsection{Izboljšava vizualizacije}
+\includegraphics[width=0.7\textwidth]{vizualizacija1.png}
+Na sami vizualizaciji sem dopisal, kaj bi spremenil in zakaj. 
+\begin{itemize}
+    \item Po vrsticah ohranim izrare, ki so si nasprotni.
+    \item Potrebno bi bilo urediti procente, da se seštejejo v 100\%.
+    \item Dodal bi še kratke opise vsake skupine, da je bolj jasno, kaj predstavljajo. in ne le legende
+    \item Dodal bi v sredino še en krogec za ljudi, ki niso vedeli, kako naj odgovorijo(tako bi jih vizualno porazdeliv med vse skupine).
+\end{itemize}
+
+\section{Del 2}
+\includegraphics[width=0.7\textwidth]{primer2.png}
+\section*{Vir podatkov}
+Grafiko sem dobil iz te spletne strani: 
+\href{https://ninjatables.com/bad-data-visualization-examples/?srsltid=AfmBOorC_DFEJ0bqgG-k9-8-JFv3-tDlOoCRPaKPlNNLCQw1jerr2czB}{https://ninjatables.com/bad-data-visualization-examples/}
+
+\subsection{Odgovori na vprašanja}
+\begin{enumerate}
+    \item Predstavljamo podatke o povprečni višini žensk po državah.
+    \item Ne odgovarja na vprašanje, ampak prikazuje povprečno višino. Iz podatkov pa lahko sami razberemo, kdo je najvišji in kdo najnižji.
+    \item Zelo jasno je razvidno, katere države imajo najvišje in katere najnižje ženske. To so dosegli z pravilno uporabo barv, da se lahko preprosto loči figure.
+    \item Zelo velik problem je sama predstava višine – prvo, da je prikazana samo v ft in inch; lahko bi se dodali tudi cm. Drugo pa, da je razmerje med največjo in najmanjšo figuro napačno, saj najmanjša sega le do kolen največje, kar ni pravilno.
+    \item Vizualizacija je zelo prijetna, vendar način, kako so predstavljene višine, ni pravilen in poda popačene informacije.
+\end{enumerate}
+
+\subsection{LLM in kritika}
+Odgovori LLM-a:
+\begin{enumerate}
+    \item Vizualizacija prikazuje povprečno višino žensk v različnih državah: Latviji, Avstraliji, Škotski, Peruju, Južni Afriki in Indiji. Namen je primerjati razlike v povprečni ženski višini med državami.
+    \item Odgovarja na vprašanje, katera država ima v povprečju najvišje in katera najnižje ženske ter kakšne so približne razlike v višini med državami.
+    \item Vizualizacija je privlačna in enostavna za branje na prvi pogled. Uporablja simbole ljudi, kar intuitivno prikazuje višino, in različne odtenke rožnate barve, ki ohranjajo temo »female height«.  
+    \item Graf nima natančnih številčnih oznak za vsako državo, zato ni mogoče razbrati točne povprečne višine. Uporaba različnih velikosti ikon namesto stolpcev lahko tudi zavaja, saj razlike v višini niso linearno prikazane (večja ikona ne pomeni nujno proporcionalno večje višine). Poleg tega ni jasno, od kod so podatki in katero leto zajemajo.
+    \item Vizualizacija mi je delno všeč, ker je vizualno privlačna in enostavno razloži osnovno idejo. Vendar je manj natančna in neprimerna za analitično primerjavo, saj je bolj ilustrativna kot informativna. Bolj primeren bi bil stolpčni graf z označenimi vrednostmi višine.
+\end{enumerate}
+
+Primerjava kritik: \\
+Kritiki sta si precej podobni in menim, da je tu LLM naredil zelo dobro kritiko.
+
+\subsection{Izboljšava vizualizacije}
+\includegraphics[width=0.7\textwidth]{vizualizacija2.jpg}
+Na vizualizaciji bi imel vse države, in tiste, kjer je povprečna višina enaka, bi bile predstavljene z eno ikono. Nato bi dodal normalno skalo, ki bi bila prikazana tudi v centimetrih.
+
+
+\section{LLM-pogovor}
+\includegraphics[width=0.7\textwidth]{llm1.png}
+
+\includegraphics[width=0.7\textwidth]{llm2.png}
+
+\end{document}
